@@ -24,7 +24,7 @@ task :publish => [:clean, :generate] do
     Dir.chdir(tmp) {
       system "git clone git@github.com:#{NAME}/#{REPO}.git"
     }
-    system "find #{tmp}/#{REPO} -mindepth 1 -name .git -prune -o -exec rm -rf {} \;"
+    system "find #{tmp}/#{REPO}/ -mindepth 1 -name .git -prune -o -exec rm -rf {} \;"
     system "cp -r _site/* #{tmp}/#{REPO}"
     Dir.chdir("#{tmp}/#{REPO}") {
       system "git add ."
