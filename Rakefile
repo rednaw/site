@@ -4,7 +4,8 @@ require "rubygems"
 require "tmpdir"
 require "fileutils"
 
-GITHUB_REPONAME = "rednaw/rednaw.github.io"
+NAME = "rednaw"
+REPO = "#{NAME}.github.io"
 
 task :clean do
   system "rm -r _site"
@@ -21,11 +22,11 @@ end
 task :publish => [:clean, :generate] do
   Dir.mktmpdir { |tmp|
     Dir.chdir(tmp) {
-      system "git clone git@github.com:rednaw/rednaw.github.io.git"
+      system "git clone git@github.com:#{NAME}/#{REPO}.git"
     }
-    system "find #{tmp}/rednaw.github.io -mindepth 1 -name .git -prune -o -exec rm -rf {} \;"
-    system "cp -r _site/* #{tmp}/rednaw.github.io"
-    Dir.chdir("#{tmp}/rednaw.github.io") {
+    system "find #{tmp}/#{REPO} -mindepth 1 -name .git -prune -o -exec rm -rf {} \;"
+    system "cp -r _site/* #{tmp}/#{REPO}"
+    Dir.chdir("#{tmp}/#{REPO}") {
       system "git add ."
       system "git commit -m 'Site updated'"
       system "git push"
