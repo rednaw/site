@@ -8,7 +8,7 @@ layout: default
 <table>
   <tr>
     <td>
-      <img src="style/Mnemmonic.jpg" height="400" /> 
+      <img src="/style/Mnemmonic.jpg" height="400" /> 
     </td>
     <td>
       <p>
