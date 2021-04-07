@@ -1,7 +1,6 @@
 ---
 title: Contact
 header: Contact information
-content_classes: right
 layout: default
 permalink: /contact
 ---

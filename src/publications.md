@@ -1,7 +1,6 @@
 ---
 title: Publications
 header: Publications
-content_classes: right
 layout: default
 permalink: /publications
 ---

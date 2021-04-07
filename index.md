@@ -1,7 +1,7 @@
 ---
 title: Home
 header: '!!!#$@????'
-content_classes: right centered
+content_classes: centered
 layout: default
 ---
 
