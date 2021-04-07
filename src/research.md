@@ -3,6 +3,7 @@ title: Research
 header: Area of interests
 content_classes: right
 layout: default
+permalink: /research
 ---
 
 <ul>

@@ -2,7 +2,7 @@ name: Maria Aloni
 
 highlighter: rouge
 theme: minimal-mistakes-jekyll
-url : "https://rednaw.github.io/" # 
+url : https://rednaw.github.io/
 
 scholar:
    source: .

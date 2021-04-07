@@ -2,7 +2,8 @@
 title: Articles
 header: Articles
 content_classes: right
-layout: list
+layout: default
+permalink: /publications
 ---
 
 <style>

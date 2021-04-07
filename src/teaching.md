@@ -3,6 +3,7 @@ title: Teaching
 header: Teaching
 content_classes: right
 layout: default
+permalink: /teaching
 ---
 
 <ul>
