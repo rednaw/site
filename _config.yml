@@ -6,6 +6,5 @@ url : https://rednaw.github.io/
 
 scholar:
    source: .
-   style: ./_scholar/simple-ieee.csl
-   bibliography_list_tag: "ul.no-bullet"
+
 
