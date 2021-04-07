@@ -2,6 +2,7 @@ require "bundler/setup"
 require "jekyll"
 require "rubygems"
 require "tmpdir"
+require "fileutils"
 
 GITHUB_REPONAME = "rednaw/rednaw.github.io"
 
@@ -14,16 +15,14 @@ end
 
 task :publish => [:generate] do
   Dir.mktmpdir { |tmp|
-    cp_r "_site/.", tmp
-    system "cp .gitignore #{tmp}"
     Dir.chdir(tmp) {
-      system "git init"
+      system "git clone git@github.com:rednaw/rednaw.github.io.git"
+    }
+    system "cp -r _site/* #{tmp}/rednaw.github.io"
+    Dir.chdir("#{tmp}/rednaw.github.io") {
       system "git add ."
-      message = "Site updated at #{Time.now.utc}"
-      system "git commit -m #{message.inspect}"
-      system "git branch -M main"
-      system "git remote add origin git@github.com:#{GITHUB_REPONAME}.git"
-      system "git push -u origin main --force"
+      system "git commit -m 'Site updated at #{Time.now.utc}'"
+      system "git push"
     }
   }
 end
