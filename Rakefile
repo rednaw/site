@@ -17,6 +17,7 @@ task :publish => [:generate] do
   Dir.mktmpdir { |tmp|
     Dir.chdir(tmp) {
       system "git clone git@github.com:rednaw/rednaw.github.io.git"
+      system "find #{tmp}/rednaw.github.io/ -not -name '.git' -delete"
     }
     system "cp -r _site/* #{tmp}/rednaw.github.io"
     Dir.chdir("#{tmp}/rednaw.github.io") {
