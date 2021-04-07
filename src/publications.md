@@ -32,7 +32,7 @@ permalink: /publications
 
 </style>
 
-{% assign bib_file = '_bibliography/simple.bib' %}
+{% assign bib_file = 'src/aloni.bib' %}
 {% bibliography -f {{bib_file}} --style _scholar/simple-ieee.csl --bibliography_list_tag ul %}
 
 
