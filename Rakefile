@@ -7,6 +7,7 @@ require "fileutils"
 GITHUB_REPONAME = "rednaw/rednaw.github.io"
 
 task :generate do
+  system "rm -r _site"
   Jekyll::Site.new(Jekyll.configuration({
     "source"      => ".",
     "destination" => "_site"
@@ -21,7 +22,13 @@ task :publish => [:generate] do
     system "find #{tmp}/rednaw.github.io -mindepth 1 -name .git -prune -o -exec rm -rf {} \;"
     system "cp -r _site/* #{tmp}/rednaw.github.io"
     Dir.chdir("#{tmp}/rednaw.github.io") {
+      system "git status"
+      puts '---'
+      puts '---'
       system "git add ."
+      system "git status"
+      puts '---'
+      puts '---'
       system "git commit -m 'Site updated'"
       system "git push"
     }

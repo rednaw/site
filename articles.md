@@ -1,5 +1,8 @@
 ---
-layout: single
+title: Articles
+header: Articles
+content_classes: right
+layout: list
 ---
 
 <style>
@@ -27,8 +30,6 @@ layout: single
 }
 
 </style>
-
-<h1>Simple Example</h1>
 
 {% assign bib_file = '_bibliography/simple.bib' %}
 {% bibliography -f {{bib_file}} --style _scholar/simple-ieee.csl --bibliography_list_tag ul %}
