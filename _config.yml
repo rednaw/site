@@ -1,0 +1,15 @@
+# Override default config
+#
+
+highlighter: rouge
+
+theme: minimal-mistakes-jekyll
+
+url     : "https://rednaw.github.io/" # 
+#baseurl : "/examples/simple" # 
+
+scholar:
+   source: .
+   style: ./simple-ieee.csl
+   bibliography_list_tag: "ul.no-bullet"
+
