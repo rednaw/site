@@ -1,12 +1,6 @@
-# Override default config
-#
-
 highlighter: rouge
-
 theme: minimal-mistakes-jekyll
-
-url     : "https://rednaw.github.io/" # 
-#baseurl : "/examples/simple" # 
+url : "https://rednaw.github.io/" # 
 
 scholar:
    source: .

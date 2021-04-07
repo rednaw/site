@@ -21,8 +21,11 @@ task :publish => [:generate] do
     system "cp -r _site/* #{tmp}/rednaw.github.io"
     Dir.chdir("#{tmp}/rednaw.github.io") {
       system "git add ."
-      system "git commit -m 'Site updated at #{Time.now.utc}'"
+      system "git commit -m 'Site updated'"
       system "git push"
     }
+    system "git add ."
+    system "git commit -m 'Site updated'"
+    system "git push"
   }
 end
