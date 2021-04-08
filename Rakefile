@@ -11,21 +11,21 @@ task :clean do
   system "jekyll clean"
 end
 
-task :build do
+task :build => [:clean] do
   system "jekyll build"
 end
 
-task :test do
+task :test => [:build] do
   system "jekyll doctor"
 end
 
-task :push do
+task :push => [:test] do
   system "git add ."
   system "git commit -m 'Site updated'"
   system "git push"
 end
 
-task :publish => [:clean, :build, :test, :push] do
+task :publish => [:push] do
   Dir.mktmpdir { |tmp|
     system "git -C #{tmp} clone git@github.com:#{NAME}/#{REPO}.git"
     system "rsync -a --delete --exclude=.git _site/ #{tmp}/#{REPO}"
