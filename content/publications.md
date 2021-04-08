@@ -5,6 +5,15 @@ layout: default
 permalink: /publications
 ---
 
-{% bibliography -f content/aloni.bib %}
+<h4>Proceedings</h4>
+{% bibliography -f content/aloni.bib --query @inproceedings %}
+
+<h4>Articles</h4>
+{% bibliography -f content/aloni.bib --query @article %}
+
+<h4>Collections</h4>
+{% bibliography -f content/aloni.bib --query @incollection %}
+
+
 
 
