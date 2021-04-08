@@ -8,12 +8,15 @@ NAME = "rednaw"
 REPO = "#{NAME}.github.io"
 
 task :clean do
-  system "rm -r _site"
-  system "rm -r .jekyll-cache"
+  system "jekyll clean"
 end
 
-task :generate do
+task :build do
   system "jekyll build"
+end
+
+task :test do
+  system "jekyll doctor"
 end
 
 task :push do
@@ -22,10 +25,7 @@ task :push do
   system "git push"
 end
 
-task :test do
-end
-
-task :publish => [:clean, :generate, :test, :push] do
+task :publish => [:clean, :build, :test, :push] do
   Dir.mktmpdir { |tmp|
     system "git -C #{tmp} clone git@github.com:#{NAME}/#{REPO}.git"
     system "rsync -a --delete --exclude=.git _site/ #{tmp}/#{REPO}"
