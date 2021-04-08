@@ -21,15 +21,11 @@ end
 
 task :publish => [:clean, :generate] do
   Dir.mktmpdir { |tmp|
-    Dir.chdir(tmp) {
-      system "git clone git@github.com:#{NAME}/#{REPO}.git"
-    }
+    system "git -C #{tmp} clone git@github.com:#{NAME}/#{REPO}.git"
     system "rsync -a --delete --exclude=.git _site/ #{tmp}/#{REPO}"
-    Dir.chdir("#{tmp}/#{REPO}") {
-      system "git add ."
-      system "git commit -m 'Site updated'"
-      system "git push"
-    }
+    system "git -C #{tmp}/#{REPO} add ."
+    system "git -C #{tmp}/#{REPO} commit -m 'Site updated'"
+    system "git -C #{tmp}/#{REPO} push"
     system "git add ."
     system "git commit -m 'Site updated'"
     system "git push"
