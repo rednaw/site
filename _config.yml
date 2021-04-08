@@ -3,11 +3,10 @@ name: Maria Aloni
 highlighter: rouge
 url : https://rednaw.github.io/
 
-# See https://www.zotero.org/styles for various styles
+# See https://www.zotero.org/styles for other styles
 scholar:
    source: .
    style: ./style/archiv-fur-geschichte-der-philosophie.csl
-   #style: ./styler/informal-logic.csl
    bibliography_list_tag: "ul"
 
 

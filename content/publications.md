@@ -5,6 +5,6 @@ layout: default
 permalink: /publications
 ---
 
-{% bibliography -f src/aloni.bib %}
+{% bibliography -f content/aloni.bib %}
 
 
