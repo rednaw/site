@@ -5,13 +5,13 @@ layout: default
 permalink: /publications
 ---
 
-<h4>Proceedings</h4>
-{% bibliography -f content/aloni.bib --query @inproceedings %}
+<h4>Journal articles</h4>
+{% bibliography -f content/aloni.bib --query @article]%}
 
-<h4>Articles</h4>
-{% bibliography -f content/aloni.bib --query @article %}
+<h4>Conference papers</h4>
+{% bibliography -f content/aloni.bib --query @inproceedings --sort_by year%}
 
-<h4>Collections</h4>
+<h4>Book chapters</h4>
 {% bibliography -f content/aloni.bib --query @incollection %}
 
 
