@@ -8,5 +8,6 @@ scholar:
    source: .
    style: ./_scholar/archiv-fur-geschichte-der-philosophie.csl
    #style: ./_scholar/informal-logic.csl
+   bibliography_list_tag: "ul"
 
 

@@ -11,9 +11,6 @@ permalink: /research
     philosophy of language, logic.
   </li>
   <li style="list-style: none">
-    <br />
-  </li>
-  <li style="list-style: none">
     <strong>Narrow:</strong> Quantification, intensionality
     (propositional attitudes, modality), reference,
     questions, imperatives, focus-topic structure,
