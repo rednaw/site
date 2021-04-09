@@ -3,6 +3,10 @@ name: Maria Aloni
 url : https://rednaw.github.io/
 highlighter: rouge
 
+exclude:
+  - bin
+  - Rakefile
+
 # See https://www.zotero.org/styles for more styles
 scholar:
    source: .
