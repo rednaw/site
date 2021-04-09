@@ -10,17 +10,23 @@ gemfile do
   gem 'text', '~> 1.3'
 end
 
-def add(bib, entry)
-  entry.delete('date-added')
-  entry.delete('date-modified')
-  bib << entry
-  bib
-end
+
+bib = BibTeX.open(ARGV[0])
+pdfs = Dir["#{ARGV[1]}/**/*.pdf"]
+pdfs.each { |pdf|
+  
+}
+
+# def add(bib, entry)
+#   entry.delete('date-added')
+#   entry.delete('date-modified')
+#   bib << entry
+#   bib
+# end
 
 #:parse_names parser option to false.
 #BibTeX.parse(<<-END).to_xml(:extended => true)
 
-bib = BibTeX.open(ARGV[0], :parse_names => false)
 # saved = BibTeX::Bibliography.new
 # bib.each { |bib_entry|
 #   if !bib_entry.author.nil? && bib_entry.author.downcase.include?('aloni')
@@ -28,8 +34,6 @@ bib = BibTeX.open(ARGV[0], :parse_names => false)
 #   end
 # }
 # saved.save_to('aloni_web.bib',  :parse_names => false)
-
-
 
 # html_entries.each { |html_entry|
 #   puts html_entry
