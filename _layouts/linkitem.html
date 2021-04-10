@@ -4,13 +4,13 @@
   {{reference}}
 </div>
 <div>
+  {% if link %}
+    <a href="{{ link }}">[Pdf]</a>
+  {% endif %}
   <button class="aslink" data-toggle="collapse" data-target="#{{entry.key}}_bibtex">[BibTex]</button>
   <pre id="{{entry.key}}_bibtex" class="collapse">{{ entry.bibtex }}</pre>
   {% if entry.doi %}
     <a href="{{ entry.doi | prepend: 'http://doi.org/' }}">[Doi]</a>
-  {% endif %}
-  {% if link %}
-    <a href="{{ link }}">[Pdf]</a>
   {% endif %}
 </div>
 
