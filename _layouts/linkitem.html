@@ -4,20 +4,11 @@
   {{reference}}
 </div>
 <div>
-  {% if link %}
-    <span>
-      <a href="{{ link }}">[PDF]</a>
-    </span>
-  {% endif %}
   {% if entry.doi %}
-    <span>
-      <a href="{{ entry.doi | prepend: 'http://doi.org/' }}">[DOI]</a>
-    </span>
+    <a href="{{ entry.doi | prepend: 'http://doi.org/' }}">[Official Link]</a>
   {% endif %}
-  {% if entry.hal_id %}
-    <span>
-      <a href="{{ entry.hal_id | prepend: 'http://hal.inria.fr/' }}">[HAL]</a>
-    </span>
+  {% if link %}
+    <a href="{{ link }}">[PDF]</a>
   {% endif %}
-  <!-- <div><pre>{{ entry.bibtex }}</pre></div> -->
 </div>
+
