@@ -23,6 +23,15 @@ p { margin-top: 1em; margin-bottom: 0 }
 a:link { color: #006699; }
 a:visited, A:active { color: #906; }
 
+button.aslink {
+  background: none!important;
+  border: none;
+  padding: 0!important;
+  color: #069;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 div.right {
   margin: 0;
   line-height: 1.1;
