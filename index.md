@@ -12,7 +12,7 @@ layout: default
     </td>
     <td>
       <p>
-        Welcome&nbsp;to&nbsp;<strong>Maria&nbsp;Aloni's</strong>&nbsp;homepage.
+        Welcome&nbsp;to&nbsp;<strong><a href="https://scholar.google.nl/citations?hl=nl&user=mr1Qy8gAAAAJ">Maria&nbsp;Aloni's</a></strong>&nbsp;homepage.
       </p>
     </td>
   </tr>
