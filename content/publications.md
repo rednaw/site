@@ -5,19 +5,19 @@ layout: default
 permalink: /publications
 ---
 
-##Journal articles
+#### Journal articles
 {% bibliography -f content/aloni.bib --query @article]%}
 
-##Conference papers
+#### Conference papers
 {% bibliography -f content/aloni.bib --query @conference || @inproceedings %}
 
-##Book chapters
+#### Book chapters
 {% bibliography -f content/aloni.bib --query @incollection %}
 
-##Drafts
+#### Drafts
 {% bibliography -f content/aloni.bib --query @unpublished %}
 
-##PHD thesis
+#### PHD thesis
 {% bibliography -f content/aloni.bib --query @phdthesis %}
 
 
