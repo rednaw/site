@@ -1,9 +1,10 @@
 ---
 title: Publications
-header: Publications
 layout: default
 permalink: /publications
 ---
+
+## Publications
 
 #### Journal articles
 {% bibliography -f content/aloni.bib --query @article]%}

@@ -1,9 +1,10 @@
 ---
 title: Research
-header: Area of interests
 layout: default
 permalink: /research
 ---
+
+## Area of interests
 
 **Broad:** Formal semantics and pragmatics, philosophy of language, logic.
 

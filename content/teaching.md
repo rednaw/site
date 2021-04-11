@@ -1,9 +1,10 @@
 ---
 title: Teaching
-header: Teaching
 layout: default
 permalink: /teaching
 ---
+
+## Teaching
 
 *[Master of Logic](https://msclogic.illc.uva.nl)*. ILLC, University of Amsterdam.
 

@@ -1,10 +1,10 @@
 ---
 title: Home
-header: '!!!#$@????'
 content_classes: centered
 layout: default
 ---
 
+## !!!#$@????
 <table>
   <tr>
     <td>

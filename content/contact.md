@@ -1,9 +1,10 @@
 ---
 title: Contact
-header: Contact information
 layout: default
 permalink: /contact
 ---
+
+## Contact information
 
 <table width="60%">
   <tr>
