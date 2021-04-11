@@ -4,7 +4,7 @@ layout: indefinites
 permalink: /Indefinites/contact
 ---
 
-## Contact information
+#### For further information please consult
 
 {% include contact.md %}
 
