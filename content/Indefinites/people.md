@@ -4,27 +4,18 @@ layout: indefinites
 permalink: /Indefinites/people
 ---
 
-<table>
-  <tr>
-    <td>
-      <b>People</b>
-      <ul>
-        <li><a href="https://www.marialoni.org">Maria Aloni</a> (PI), since November 2007</li>
-        <li><a href="https://home.medewerker.uva.nl/k.schulz/">Katrin Schulz</a> (postdoc), November 2007 - January 2011</li>
-        <li><a href="https://www.zas.gwz-berlin.de/mitarbeiter_solt.html?&L=1">Stephanie Solt</a> (postdoc), since March 2012</li>
-        <li>Angelika Port (PhD student), since April 2008</li>
-        <li><a href="https://staff.science.uva.nl/~sjagerde/">Tikitu de Jager</a> (researcher), spring 2010</li>
-        <li>Ivano Ciardelli (researcher), fall 2009</li>
-      </ul>
-      <b>External Collaborators</b>
-      <ul>
-        <li><a href="https://sites.google.com/site/agostana/">Ana Aguilar-Guevara</a> (Utrecht University)</li>
-        <li><a href="https://staff.science.uva.nl/~raquel/">Raquel Fernandez Rovira</a> (University of Amsterdam)</li>
-        <li><a href="https://staff.science.uva.nl/~froelofs/">Floris Roelofsen</a> (University of Amsterdam)</li>
-        <li><a href="https://www.sfb632.uni-potsdam.de/~simik/index.html">Radek Simik</a> (University of Potsdam)</li>
-        <li>Machteld de Vos (Cambridge University)</li>
-        <li><a href="https://home.medewerker.uva.nl/h.h.zeijlstra/">Hedde Zeijlstra</a> (University of Amsterdam)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+**People**
+- [Maria Aloni](https://www.marialoni.org) (PI), since November 2007
+- [Katrin Schulz](https://www.uva.nl/profiel/s/c/k.schulz/k.schulz.html?cb) (postdoc), November 2007 - January 2011
+- [Stephanie Solt](https://www.leibniz-zas.de/en/people/details/solt-stephanie/stephanie-solt) (postdoc), since March 2012
+- [Angelika Port](https://www.uva.nl/en/profile/p/o/a.port/a.port.html) (PhD student), since April 2008
+- [Tikitu de Jager](https://www.researchgate.net/scientific-contributions/Tikitu-de-Jager-70698271) (researcher), spring 2010
+- [Ivano Ciardelli](https://www.ivanociardelli.altervista.org/) (researcher), fall 2009
+
+**External Collaborators**
+- [Ana Aguilar-Guevara](https://sites.google.com/site/agostana/) (Utrecht University)
+- [Raquel Fernandez Rovira](https://staff.fnwi.uva.nl/r.fernandezrovira/) (University of Amsterdam)
+- [Floris Roelofsen](https://www.florisroelofsen.com/) (University of Amsterdam)
+- [Radek Simik](https://www.radeksimik.eu/) (University of Amsterdam)
+- [Machteld de Vos](https://scholar.google.com/citations?user=DfLLivcAAAAJ) (Cambridge University)
+- [Hedde Zeijlstra](https://www.heddezeijlstra.org/) (University of Amsterdam)
