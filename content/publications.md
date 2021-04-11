@@ -18,7 +18,7 @@ permalink: /publications
 #### Conference papers
 {% bibliography -f content/aloni.bib --query @inproceedings %}
 
-#### Monograph
+#### Books
 {% bibliography -f content/aloni.bib --query @phdthesis %}
 
 #### Edited volumes / Special issues
