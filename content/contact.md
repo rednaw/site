@@ -6,33 +6,13 @@ permalink: /contact
 
 ## Contact information
 
-<table width="60%">
-  <tr>
-    <td>
-      <p>
-        Maria Aloni<br/>
-        ILLC - University of Amsterdam<br/>
-        Science Park 107<br/>
-        1098 XG Amsterdam <br/>
-        The Netherlands<br/><br/><br/>
-        <b>Room:</b> F1.05<br/>
-        <b>Tel:</b> +31 20 5254537<br/>
-        <b>Email:</b> M.D.Aloni[at]uva[dot]nl<br/>
-      </p>
-    </td>
-    <td>
-      <p>
-        Maria Aloni<br/>
-        Department of Philosophy<br/>
-        University of Amsterdam<br/>
-        Oude Turfmarkt 141-143<br/>
-        1012 GC Amsterdam<br/>
-        The Netherlands<br/><br/>
-        <b>Room:</b> 2.12 (OTM 143)<br/>
-        <b>Tel:</b> +31 20 5252189<br/>
-        <b>Email:</b> M.D.Aloni[at]uva[dot]nl<br/>            
-      </p>
-    </td>
-  </tr>
-</table>
-
+| Maria Aloni                                | Maria Aloni                        |
+| ILLC - University of Amsterdam&nbsp;&nbsp; | Department of Philosophy           |
+| Science Park 107                           | University of Amsterdam            |
+| 1098 XG Amsterdam                          | Oude Turfmarkt 141-143             |
+| The Netherlands                            | 1012 GC Amsterdam                  |
+|                                            | The Netherlands                    |
+|                                            |                                    |
+| **Room:** F1.05                            | **Room:** 2.12 (OTM 143)           |
+| **Tel:** +31 20 5254537                    | **Tel:** +31 20 5252189            |
+| **Email:** M.D.Aloni[at]uva[dot]nl         | **Email:** M.D.Aloni[at]uva[dot]nl |
