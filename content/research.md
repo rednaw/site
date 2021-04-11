@@ -11,7 +11,7 @@ permalink: /research
 **Narrow:** Quantification, intensionality (propositional attitudes, modality), reference, questions, imperatives, focus-topic structure, presupposition, indefinites, free choice phenomena, ellipsis, implicatures, exhaustification, dynamic semantics, optimality theory.
 
 ##  Projects
-- From Nov 2007. NWO *Vidi*-grant: [**Indefinites and beyond. Evolutionary pragmatics and typological semantics**](Indefinites/index.html). Principal Investigator.
+- From Nov 2007. NWO *Vidi*-grant: [**Indefinites and beyond. Evolutionary pragmatics and typological semantics**](Indefinites/). Principal Investigator.
 
   People can and do infer information above and beyond what other people actually say.  Focusing on expressions with indefinite reference, this research project studies how these inferences based on language use can become part of literal meaning in historical processes of conventionalizations. To this aim the project includes a number of synchronic and diachronic studies of indefinite words in various languages and  develops formal models of their variation in meaning and use.
 - 2004--2007. NWO *Veni*-grant: **Semantic Structure and Dynamics in Natural Language Interpretation**. Main Researcher.
