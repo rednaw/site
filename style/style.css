@@ -17,7 +17,7 @@ h4 {
   font-size: 1em;
   font-weight: bolder;
 }
-li { margin-top: 1.0em }
+ul.bibliography li { margin-top: 1.0em }
 p { margin-top: 1em; margin-bottom: 0 }
 
 a:link { 
