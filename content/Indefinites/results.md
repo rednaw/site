@@ -4,7 +4,7 @@ layout: indefinites
 permalink: /Indefinites/results
 ---
 **Poster Presentations**
-{% bibliography -f content/indefinites.bib -q @*[
+{% bibliography -f content/Indefinites/indefinites.bib -q @*[
   key=SoltGotzner2012 || 
   key=AloniEtAl2012a || 
   key=Port2011 || 
@@ -23,7 +23,7 @@ permalink: /Indefinites/results
   key=AloniEtAl2013 ||
   key=AguilarEtAl2011
 ]%}
-{% bibliography -f content/indefinites.bib -q @*[key=AloniCiardelli2011] %}
+{% bibliography -f content/Indefinites/indefinites.bib -q @*[key=AloniCiardelli2011] %}
 - Ciardelli, I. 2010. "A first-order inquisitive semantics." In <em>Logic, Language and Meaning</em> LNAI 6042
 
 **Corpus**
