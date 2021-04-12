@@ -8,7 +8,7 @@ This project generates https://www.marialoni.org
 
 AAA
 
-[Overview](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/rednaw/site/main/marialoni.iuml)
+![Overview](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/rednaw/site/main/marialoni.iuml)
 
 BBB
 
