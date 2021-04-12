@@ -6,3 +6,4 @@
 site -> marialoni.github.io : Generate
 marialoni.github.io -> www.marialoni.org : DNS CNAME
 @enduml
+
