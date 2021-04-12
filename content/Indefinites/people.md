@@ -1,5 +1,5 @@
 ---
-title: Indefinites and beyond - People
+title: People
 layout: indefinites
 permalink: /Indefinites/people
 ---

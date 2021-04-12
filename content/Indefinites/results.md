@@ -1,5 +1,5 @@
 ---
-title: Indefinites and beyond - Results
+title: Results
 layout: indefinites
 permalink: /Indefinites/results
 ---
