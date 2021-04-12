@@ -6,7 +6,6 @@
 ## Overview
 This project generates https://www.marialoni.org 
 
-[your-UML-diagram-name](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/jonashackt/plantuml-markdown/master/example-uml.iuml)
-
+[Overview](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/rednaw/site/main/marialoni.iuml)
 
 [Kramdown Quick Reference](https://kramdown.gettalong.org/quickref.html)
