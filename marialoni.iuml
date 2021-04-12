@@ -1,8 +1,8 @@
 @startuml
-node github://marialoni/site
-node github://marialoni/marialoni.github.io
-node https://www.marialoni.org
+node site
+node marialoni.github.io
+node www.marialoni.org
 
-github://marialoni/site -> github://marialoni/marialoni.github.io
-github://marialoni/marialoni.github.io -> node https://www.marialoni.org
+site -> marialoni.github.io
+marialoni.github.io -> www.marialoni.org
 @enduml
