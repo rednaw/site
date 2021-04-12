@@ -1,6 +1,11 @@
 url : https://rednaw.github.io/
 highlighter: rouge
 
+# bootstrap_version: 4.5.3
+# jquery_version: 3.6.0
+bootstrap_version: 3.4.1
+jquery_version: 3.5.1
+
 exclude:
   - Rakefile
 
