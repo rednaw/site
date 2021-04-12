@@ -1,6 +1,6 @@
 ## TL;DR
 **Preview:** in terminal type `jekyll serve` and go to http://localhost:4000/ \
-**Publish** in terminal type 'rake publish'
+**Publish** in terminal type `rake publish`
 
 
 ## Overview
