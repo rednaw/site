@@ -3,6 +3,6 @@
 [marialoni.github.io]
 [www.marialoni.org]
 
-[This project] -> marialoni.github.io : Generate
+This project -> marialoni.github.io : Generate
 marialoni.github.io -> www.marialoni.org : DNS
 @enduml
