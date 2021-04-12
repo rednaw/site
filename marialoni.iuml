@@ -1,4 +1,4 @@
-i@startuml
+@startuml
 actor client
 node app
 node car
