@@ -1,10 +1,8 @@
 @startuml
-actor client
-node app
-node car
-node indefinites
+node github://marialoni/site
+node github://marialoni/marialoni.github.io
+node https://www.marialoni.org
 
-car -> app
-app -> client
-client -> indefinites
+github://marialoni/site -> github://marialoni/marialoni.github.io
+github://marialoni/marialoni.github.io -> node https://www.marialoni.org
 @enduml
