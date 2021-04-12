@@ -9,7 +9,7 @@
   {% endif %}
   <button class="aslink" data-toggle="collapse" data-target="#{{entry.key}}_bibtex">[BibTex]</button>
   {% if entry.doi %}
-    <a href="{{ entry.doi | prepend: 'http://doi.org/' }}">[Doi]</a>
+    <a href="{{ entry.doi | prepend: 'https://doi.org/' }}">[Doi]</a>
   {% endif %}
   <pre id="{{entry.key}}_bibtex" class="collapse">{{ entry.bibtex }}</pre>
 </div>

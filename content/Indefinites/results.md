@@ -31,5 +31,5 @@ permalink: /Indefinites/results
 
 **Activities**
 - [Assessing the Reliability of an Annotation Scheme for Indefinites](https://staff.science.uva.nl/~raquel/teaching/MoLProject2011/): Master of Logic Project, January 2011, ILLC, University of Amsterdam
-- [Implicatures and Grammar](https://www.illc.uva.nl/AC/AC2009/Workshops.html): Workshop hosted during the [17th Amsterdam Colloquium](https://www.illc.uva.nl/AC/AC2009), December 2009, University of Amsterdam
-- [Indefinites and beyond](https://www.illc.uva.nl/MScLogic/courses/Projects-0809-Ic/AloniSchulzPort.html): Master of Logic Project, January 2009, ILLC, University of Amsterdam
+- [Implicatures and Grammar](https://www.illc.uva.nl/AC/AC2009/Workshops.html): Workshop hosted during the [17th Amsterdam Colloquium](https://www.springer.com/gp/book/9783642142864), December 2009, University of Amsterdam
+- Indefinites and beyond: Master of Logic Project, January 2009, ILLC, University of Amsterdam
