@@ -8,7 +8,9 @@ permalink: /Indefinites/results
 - Maria Aloni, Andreas van Cranenburgh, Raquel  Fernandez and Marta Sznajder. [Building a Corpus of Indefinite uses Annotate with fine-grained Semantic Functions](resources/lrec2012poster.pdf).  LREC 2012, May 2012.
 - Angelika Port [German *irgendein* \- contrastive and diachronic](resources/spainwsindefinites.pdf). WS Indefinites in diachronic and comparative perspective, 44th SLE, 8 September 2011.
 - Ana Aguilar Guevara, Maria Aloni, Radek Simik, Machteld de Vos and Hedde Zeijlstra [Emerging indefinites](resources/Emerging-indefinites.pdf). WS Indefinites in diachronic and comparative perspective, 44th SLE, 8 September 2011.
-- Maria Aloni and Floris Roelofsen. [Indefinites in Comparatives](resources/salt11-slides.pdf). SALT 21, Rutgers University, 20 May 2011.
+
+{% bibliography -f content/aloni.bib -q @*[key=AloniRoelofsen2011b] %}
+
 - Ana Aguilar Guevara, Maria Aloni, Angelika Port, Radek Simik, Machteld de Vos and Hedde Zeijlstra. [Semantics and pragmatics of indefinites: methodology for a synchronic and diachronic corpus study](resources/slides+decision-tree.pdf). <em>Beyond Semantics - Corpus-based investigations of pragmatic and discourse phenomena (DGfS).</em> Goettingen, 23 February 2011.
 - Maria Aloni and Angelika Port. [Epistemic indefinites crosslinguistically](resources/NELS2010-handout.pdf). <em>NELS</em>, Philadelphia, 22 October 2010.
 - Ana Aguilar Guevara, Maria Aloni, Angelika Port, Katrin Schulz, and Radek Simik.[Free choice items as fossils](resources/DGfS2010.pdf). <em>Workshop on Indefiniteness Crosslinguistically (DGfS)</em> Berlin, 25/26 February 2010.
