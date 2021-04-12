@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Maria Aloni
 layout: default
 ---
 

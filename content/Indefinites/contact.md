@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Indefinites and beyond - Contact
 layout: indefinites
 permalink: /Indefinites/contact
 ---

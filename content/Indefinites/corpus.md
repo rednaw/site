@@ -1,5 +1,5 @@
 ---
-title: Evolutionary pragmatics and typological semantics
+title: Indefinites and beyond - Evolutionary pragmatics and typological semantics
 layout: indefinites
 permalink: /Indefinites/corpus
 ---

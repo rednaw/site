@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact - Maria Aloni
 layout: default
 permalink: /contact
 ---

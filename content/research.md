@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Research - Maria Aloni
 layout: default
 permalink: /research
 ---

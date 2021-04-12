@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Teaching - Maria Aloni
 layout: default
 permalink: /teaching
 ---

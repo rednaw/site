@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Publications - Maria Aloni
 layout: default
 permalink: /publications
 ---
