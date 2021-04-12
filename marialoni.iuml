@@ -3,6 +3,6 @@ node site
 node marialoni.github.io
 node www.marialoni.org
 
-site -> marialoni.github.io
-marialoni.github.io -> www.marialoni.org
+site -> marialoni.github.io : Generate ('rake publish')
+marialoni.github.io -> www.marialoni.org : DNS CNAME
 @enduml
