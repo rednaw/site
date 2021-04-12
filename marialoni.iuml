@@ -6,5 +6,5 @@ node indefinites
 
 car -> app
 app -> client
-client -> tshirt
+client -> indefinites
 @enduml
