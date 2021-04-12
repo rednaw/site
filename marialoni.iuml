@@ -1,8 +1,8 @@
-@startuml
+i@startuml
 actor client
 node app
 node car
-node tshirt
+node indefinites
 
 car -> app
 app -> client
