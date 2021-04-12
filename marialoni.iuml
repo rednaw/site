@@ -1,7 +1,7 @@
 @startuml
-component site
-component marialoni.github.io
-component www.marialoni.org
+[site]
+[marialoni.github.io]
+[www.marialoni.org]
 
 site -> marialoni.github.io : Generate ('rake publish')
 marialoni.github.io -> www.marialoni.org : DNS CNAME
