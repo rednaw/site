@@ -4,8 +4,6 @@ This project backs https://www.marialoni.org, the two most important directories
 - **content** All content (web text and bibliographies) goes here
 - **resources** All resources (pdfs) go here
 
-The other directories (`_layouts`, `_plugins`, `_includes`, `style`) contain technical files. These files only need to be changed in case of changes to the structure of the site itself. Things like changing the layout, navigation, style or adding a new subsite.
-
 Regular (non-structural) changes are done in three steps:
 1. **Make changes** by editing content and/or adding resources.
     
@@ -16,6 +14,8 @@ Regular (non-structural) changes are done in three steps:
 3. **Publish** in a terminal type `rake publish`.
     
     This will take care that your changes are committed to version control and your changes are made public.
+
+The other directories (`_layouts`, `_plugins`, `_includes`, `style`) contain technical files. These files only need to be changed in case of changes to the structure of the site itself. Things like changing the layout, navigation, style or adding a new subsite.
 
 ## Technical background 
 
