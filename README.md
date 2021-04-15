@@ -1,11 +1,10 @@
 ## Quickstart
 
-This project backs https://www.marialoni.org,  
-the two most important directories are:
+This project backs https://www.marialoni.org, the two most important directories are:
 - **content** All content (web text and bibliographies) goes here
 - **resources** All resources (pdfs) go here
 
-All other directories (`_layouts`, `_plugins`, `_includes`, `style`) contain technical files. These files only need to be changed in case of changes to the structure of the site itself. Things like changing the layout, navigation, style or adding a new subsite.
+The other directories (`_layouts`, `_plugins`, `_includes`, `style`) contain technical files. These files only need to be changed in case of changes to the structure of the site itself. Things like changing the layout, navigation, style or adding a new subsite.
 
 Regular (non-structural) changes are done in three steps:
 1. **Make changes** by editing content and/or adding resources.
