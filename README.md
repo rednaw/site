@@ -15,7 +15,7 @@ Regular (non-structural) changes are done in three steps:
     
     This will take care that your changes are committed to version control and your changes are made public.
 
-The other directories (`_layouts`, `_plugins`, `_includes`, `style`) contain technical files. These files only need to be changed if the structure of the site itself needs to be changed. Things like changing the layout, navigation, style or adding a new page or subsite. **Exception**: `_include/contact.md` contains contact information.
+The other directories (`_layouts`, `_plugins`, `_includes`, `style`) contain technical files. These files only need to be changed if the structure of the site itself needs to be changed. **Exception**: `_include/contact.md` contains contact information.
 
 ## Technical background 
 
