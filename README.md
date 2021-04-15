@@ -10,7 +10,7 @@ Regular (non-structural) changes are done in three steps:
     Content pages are written in Markdown, see the [basic syntax guide](https://www.markdownguide.org/basic-syntax/) for a quick overview. **Note** It is not mandatory to use Markdown, it is also fine to just write plain HTML. With some restrictions it is even possible to mix the two in one file.
 2. **Preview:** in a terminal type `jekyll serve` and go to http://localhost:4000/.
     
-    It is not mandatory but recommended to do a preview before publishing because it is possible that a small unnoticed typo causes the site generation to fail after which your changes will not be published.
+    It is not mandatory but recommended to do a preview before publishing because it is possible that a small unnoticed typo causes the site generation to fail after which your changes will not be published. 
 3. **Publish** in a terminal type `rake publish`.
     
     This will take care that your changes are committed to version control and your changes are made public.
