@@ -20,7 +20,7 @@ The other directories (`_layouts`, `_plugins`, `_includes`, `style`) contain tec
 ## Technical background 
 
 This site:
-- is deployed using GitHub Pages (https://pages.github.com/)
+- is deployed using [GitHub Pages](https://pages.github.com/)
 - uses [Jekyll](https://jekyllrb.com/) as web framework
 - uses [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar#readme) for parsing BibTex content
 
