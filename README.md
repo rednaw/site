@@ -1,4 +1,4 @@
-#### Quickstart
+## Quickstart
 
 This project backs https://www.marialoni.org, the most important directories and files are:
 - **content** All content (web text and bibliographies) goes here
@@ -19,7 +19,7 @@ Regular (non-structural) changes are done in three steps:
     This will take care that your changes are committed to version control and your changes are made public.
 
 
-#### Technical overview 
+## Technical overview 
 
 This site:
 - is deployed using [GitHub Pages](https://pages.github.com/)
