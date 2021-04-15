@@ -1,6 +1,6 @@
 ## Quickstart
 
-This project backs https://www.marialoni.org, the two most important directories/files are:
+This project backs https://www.marialoni.org, the most important directories and files are:
 - **content** All content (web text and bibliographies) goes here
 - **resources** All resources (pdfs) go here
 - **_include/contact.md** contact information
