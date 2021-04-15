@@ -1,4 +1,4 @@
-## Quickstart
+#### Quickstart
 
 This project backs https://www.marialoni.org, the most important directories and files are:
 - **content** All content (web text and bibliographies) goes here
@@ -18,10 +18,11 @@ Regular (non-structural) changes are done in three steps:
 
 The other directories (`_layouts`, `_plugins`, `_includes`, `style`) contain technical files. These files only need to be changed if the structure of the site itself needs to be changed.  Things like changing the layout, navigation, style or adding a new page or subsite.
 
-## Technical background 
+#### Technical overview 
 
 This site:
 - is deployed using [GitHub Pages](https://pages.github.com/)
 - uses [Jekyll](https://jekyllrb.com/) as web framework
 - uses [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar#readme) for parsing BibTex content
+
 
