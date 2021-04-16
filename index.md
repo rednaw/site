@@ -14,7 +14,7 @@ layout: default
     </tr>
     <tr>
       <td>
-        <img src="style/Mnemmonic.jpg" height="400" /> 
+        <img src="style/Mnemmonic.jpg" height="400" alt="Johnny Mnemonic"/> 
       </td>
       <td>
         <p>
