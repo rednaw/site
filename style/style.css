@@ -15,6 +15,21 @@ body {
     padding: 12px;
     padding-bottom: 0;
   }
+  
+  div.centered img {
+    height: 300px;
+  }
+}
+
+@media only screen and (min-width: 481px) {
+  div.centered {
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+  }
+  div.centered img {
+    height: 400px;
+  }
 }
 
 h2 {
@@ -53,17 +68,9 @@ div.right {
   left: 110px;
 }
 
-@media only screen and (min-width: 481px) {
-  div.centered {
-    margin: auto;
-    width: 75%;
-    padding: 10px;
-  }
-}
 div.centered span {
   line-height: 300%;
 }
-
 
 div.main_left {
   margin: 0;
