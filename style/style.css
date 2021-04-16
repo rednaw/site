@@ -56,10 +56,14 @@ div.right {
 @media only screen and (min-width: 481px) {
   div.centered {
     margin: auto;
-    width: 50%;
+    width: 75%;
     padding: 10px;
   }
 }
+div.centered span {
+  line-height: 300%;
+}
+
 
 div.main_left {
   margin: 0;
