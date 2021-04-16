@@ -53,10 +53,12 @@ div.right {
   left: 110px;
 }
 
-div.centered {
-  margin: auto;
-  width: 50%;
-  padding: 10px;
+@media only screen and (min-width: 481px) {
+  div.centered {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
 }
 
 div.main_left {
