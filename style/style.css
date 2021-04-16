@@ -1,12 +1,25 @@
 @import "https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts@latest/fonts.css";
 
 body {
+  max-width: 700px;
+  padding: 12px;
+  padding-bottom: 0;
   color: #000;
   background: #FFF;
   margin-right: 1%;
   font-family: "Computer Modern Serif", serif;
   color : black;
   font-size: 16px;
+}
+@media only screen and (min-width: 481px) {
+  body {
+    color: #000;
+    background: #FFF;
+    margin-right: 1%;
+    font-family: "Computer Modern Serif", serif;
+    color : black;
+    font-size: 16px;  
+  }
 } 
 
 h2 {
