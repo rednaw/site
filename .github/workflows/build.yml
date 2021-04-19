@@ -11,6 +11,8 @@ jobs:
       uses: actions/setup-ruby@v1
       with:
         ruby-version: 2.6.x
+    - name: Checkout
+      uses: actions/checkout@v2
     - name: Build Jekyll site
       run: |
         set -xo pipefail
