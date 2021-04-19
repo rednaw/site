@@ -1,23 +1,26 @@
-name: CI for marialoni.org
+name: Jekyll Deploy
+
 on:
   push:
-    branches: [ main ]
+    branches:
+      - master
+
 jobs:
-  build:
+  build_and_deploy:
     runs-on: ubuntu-latest
-    name: Build
     steps:
-    - name: Set up Ruby 2.6
-      uses: actions/setup-ruby@v1
-      with:
-        ruby-version: 2.6.x
-    - name: Checkout
-      uses: actions/checkout@v2
-    - name: Build Jekyll site
-      run: |
-        set -xo pipefail
-        rm -rf _site/*
-        gem install bundler
-        bundle install
-        bundle exec jekyll build
-        # [[ -e CNAME ]] && cp CNAME _site/CNAME
+      - name: GitHub Checkout
+        uses: actions/checkout@v1
+      - name: Bundler Cache
+        uses: actions/cache@v1
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+      - name: Build & Deploy to GitHub Pages
+        uses: joshlarsen/jekyll4-deploy-gh-pages@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
+          GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
