@@ -1,7 +1,7 @@
 name: CI for marialoni.org
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 jobs:
   build:
     runs-on: ubuntu-latest
