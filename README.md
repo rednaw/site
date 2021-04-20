@@ -26,4 +26,3 @@ This site:
 - uses [Jekyll](https://jekyllrb.com/) as web framework
 - uses [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar#readme) for parsing BibTex content
 
-
