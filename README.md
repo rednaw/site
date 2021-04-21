@@ -16,7 +16,7 @@ Regular (non-structural) changes are done in three steps:
     
     This will take care that your changes are committed to version control and your changes are made public.
 
-## Overview 
+## Background 
 
 This site:
 - is deployed using [GitHub Pages](https://pages.github.com/)
@@ -25,7 +25,11 @@ This site:
 
 Publishing a Jekyll site constists of 2 steps: `build` (generate HTML) and `deploy` (publish HTML)
 
-This site uses the simplest possible way for publishing a Jekyll site: generate the HTML locally (on your laptop) and then push the generated HTML to a repository that contains only the generated static HTML. All logic is implemented as a series of [Rake tasks](https://github.com/ruby/rake) that run locally:
+Out-of-the-box Jekyll with GitHub Pages only allows for fully automated publishing when using a [limited, white-listed, set of Jekyll extensions](https://pages.github.com/versions/). Sites requiring non white-listed Jekyll extensions such as Jekyll-Scholar need to implement their publishing steps themselves.
+
+A classical way of doing that is via a CI pipeline using [Github Actions](https://docs.github.com/en/actions) or [Travis](https://travis-ci.org/). While this is easy to set up it does mean adding extra technologies with their own complexities and maintenance need. CI pipelines are indispensible tools for teams but are a bit overkill for this site (at least for now).
+
+For this reason this site uses the simplest possible way for publishing a Jekyll site: generate the HTML locally (on your laptop) and then push the generated HTML to a repository that contains only the generated static HTML. All logic is implemented as a series of [Rake tasks](https://github.com/ruby/rake) that run locally:
 - `rake build` generates HTML
 - `rake preview` generates HTML and launches a webserver for preview on [http://localhost:4000](http://localhost:4000)
 - `rake publish` generates HTML and pushes it to the main branch of [https://github.com/marialoni/marialoni.github.io](https://github.com/marialoni/marialoni.github.io)
