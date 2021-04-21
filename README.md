@@ -5,7 +5,7 @@ This project generates HTML for https://www.marialoni.org, the most important di
 - **resources** All resources (pdfs) go here
 - **_include/contact.md** contact information
 
-Regular (non-structural) changes are done in three steps:
+After initial setup (see below) changes are done in three steps:
 1. **Make changes** by editing content and/or adding resources.
     
     Content pages are written in Markdown, see the [basic syntax guide](https://www.markdownguide.org/basic-syntax/) for a quick overview. **Note** It is not mandatory to use Markdown, it is also fine to just write plain HTML. With some restrictions it is even possible to mix the two in one file.
