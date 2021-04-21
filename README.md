@@ -16,6 +16,23 @@ After initial setup (see below) changes are done in three steps:
     
     This will take care that your changes are committed to version control and your changes are made public.
 
+## Setup (MacOSX)
+
+#### System wide setup, one time only, as user with administrator privileges.
+- [Install Homebrew](https://brew.sh/)
+- Use Homebrew to [install Git](https://git-scm.com/download/mac)
+- Use Homebrew to [install Rbenv](https://github.com/rbenv/rbenv#installation)
+
+#### Local setup, one time only, as regular user.
+- Use Rbenv to [install Ruby](https://github.com/rbenv/rbenv#installing-ruby-versions) (version 2.6 or higher)
+- Use Ruby to [install Bundler](https://github.com/rbenv/rbenv#installing-ruby-gems)
+
+#### Project developent setup, as regular user.
+- Use Git to [clone https://github.com/marialoni/site](https://github.com/marialoni/site)
+- Use Bundler to [download project dependencies](https://bundler.io/man/bundle-install.1.html)
+
+If all went well you can now run `rake preview` and see the result on [http://localhost:4000](http://localhost:4000)
+
 ## Background 
 
 This site:
@@ -33,21 +50,3 @@ This site is not managed by a team and needs to be as low maintenance as possibl
 - `rake build` generates HTML
 - `rake preview` generates HTML and launches a webserver for preview on [http://localhost:4000](http://localhost:4000)
 - `rake publish` generates HTML and pushes it to the main branch of [https://github.com/marialoni/marialoni.github.io](https://github.com/marialoni/marialoni.github.io)
-
-
-## Setup (MacOSX)
-
-#### System wide setup, one time only, as user with administrator privileges.
-- [Install Homebrew](https://brew.sh/)
-- Use Homebrew to [install Git](https://git-scm.com/download/mac)
-- Use Homebrew to [install Rbenv](https://github.com/rbenv/rbenv#installation)
-
-#### Local setup, one time only, as regular user.
-- Use Rbenv to [install Ruby](https://github.com/rbenv/rbenv#installing-ruby-versions) (version 2.6 or higher)
-- Use Ruby to [install Bundler](https://github.com/rbenv/rbenv#installing-ruby-gems)
-
-#### Project developent setup, as regular user.
-- Use Git to [clone https://github.com/marialoni/site](https://github.com/marialoni/site)
-- Use Bundler to [download project dependencies](https://bundler.io/man/bundle-install.1.html)
-
-If all went well you can now run `rake preview` and see the result on [http://localhost:4000](http://localhost:4000)
