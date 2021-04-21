@@ -16,8 +16,7 @@ Regular (non-structural) changes are done in three steps:
     
     This will take care that your changes are committed to version control and your changes are made public.
 
-
-## Technical overview 
+## Overview 
 
 This site:
 - is deployed using [GitHub Pages](https://pages.github.com/)
@@ -34,3 +33,16 @@ Therefore this site uses the simplest possible way for publishing a Jekyll site:
 - `rake build` generates HTML
 - `rake preview` generates HTML and launches a webserver for preview on [http://localhost:4000](http://localhost:4000)
 - `rake publish` generates HTML and pushes it to the main branch of [https://github.com/marialoni/marialoni.github.io](https://github.com/marialoni/marialoni.github.io)
+
+
+## Setup (MacOSX)
+- Install [Homebrew](https://brew.sh/)
+- Use Homebrew to [install Rbenv](https://github.com/rbenv/rbenv#installation)
+- Use Rbenv to [install Ruby](https://github.com/rbenv/rbenv#installing-ruby-versions) (version 2.6 or higher)
+- Use Ruby to [install Bundler](https://github.com/rbenv/rbenv#installing-ruby-gems)
+
+- Use Homebrew to [install Git](https://git-scm.com/download/mac)
+- Use Git to clone [this project](https://github.com/rednaw/site)
+- Use Bundler to [download and install project dependencies](https://bundler.io/man/bundle-install.1.html)
+
+If all went well you can now run `rake preview` and see the result on [http://localhost:4000](http://localhost:4000)
