@@ -7,7 +7,7 @@ REPO = "#{NAME}.github.io"
 task :get_message do
   if @message.nil?
     @message = HighLine.new().ask("\n\nPlease provide a short commit message:") { |q| 
-      q.validate = /^(?!\s*$).+/
+      q.validate = /.+/
     }
   end
 end
