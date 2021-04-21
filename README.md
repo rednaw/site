@@ -40,7 +40,6 @@ Therefore this site uses the simplest possible way for publishing a Jekyll site:
 - Use Homebrew to [install Rbenv](https://github.com/rbenv/rbenv#installation)
 - Use Rbenv to [install Ruby](https://github.com/rbenv/rbenv#installing-ruby-versions) (version 2.6 or higher)
 - Use Ruby to [install Bundler](https://github.com/rbenv/rbenv#installing-ruby-gems)
-
 - Use Homebrew to [install Git](https://git-scm.com/download/mac)
 - Use Git to clone [this project](https://github.com/rednaw/site)
 - Use Bundler to [download and install project dependencies](https://bundler.io/man/bundle-install.1.html)
