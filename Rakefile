@@ -26,7 +26,7 @@ task :push => [:get_message, :test] do
   system "git push"
 end
 
-task :publish => [:get_message, :push] do
+task :publish => [:push] do
   Dir.mktmpdir { |tmp|
     system "git -C #{tmp} clone git@github.com:#{NAME}/#{REPO}.git"
     system "rsync -a --delete --exclude=.git _site/ #{tmp}/#{REPO}"
