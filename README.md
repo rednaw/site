@@ -24,5 +24,9 @@ Regular (non-structural) changes are done in three steps:
 This site:
 - is deployed using [GitHub Pages](https://pages.github.com/)
 - uses [Jekyll](https://jekyllrb.com/) as web framework
-- uses [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar#readme) for parsing BibTex content
+- uses [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar#readme), a Jekyll extension for parsing BibTex files.
+
+Out-of-the-box Jekyll with GitHub Pages only allows for fully automated `build` (generate HTML) and `deploy` (publish HTML) when using a [limited, white-listed, set of Jekyll extensions](https://pages.github.com/versions/). Sites requiring non white-listed extensions like Jekyll-Scholar need to take care of their `build` and `deploy` steps themselves.
+
+A classical way of doing that is by creating a CI pipeline using [Github Actions](https://docs.github.com/en/actions) or [Travis](https://travis-ci.org/). While this is easy to set up it does mean adding a number of new technologies, each with their own complexities. CI pipelines are indispensible for teams but do need maintenance. For this reason this site does this in the simplest possible way (at least for now): The `build` and `deploy` steps both run locally on your laptop.
 

@@ -30,6 +30,7 @@ task :publish => [:push] do
   Dir.mktmpdir { |tmp|
     system "git -C #{tmp} clone git@github.com:#{NAME}/#{REPO}.git"
     system "rsync -a --delete --exclude=.git _site/ #{tmp}/#{REPO}"
+    system "cp _includes/README.md #{tmp}/#{REPO}/"
     system "git -C #{tmp}/#{REPO} add ."
     system "git -C #{tmp}/#{REPO} commit -m '#{@message}'"
     system "git -C #{tmp}/#{REPO} push"
