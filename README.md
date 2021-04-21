@@ -45,7 +45,7 @@ For this reason this site uses the simplest possible way for publishing a Jekyll
 #### Local setup, in home directory, as normal user
 - Use Rbenv to [install Ruby](https://github.com/rbenv/rbenv#installing-ruby-versions) (version 2.6 or higher)
 - Use Ruby to [install Bundler](https://github.com/rbenv/rbenv#installing-ruby-gems)
-- Use Git to [clone https://github.com/rednaw/site](https://github.com/rednaw/site)
+- Use Git to [clone https://github.com/marialoni/site](https://github.com/marialoni/site)
 - Use Bundler to [download project dependencies](https://bundler.io/man/bundle-install.1.html)
 
 If all went well you can now run `rake preview` and see the result on [http://localhost:4000](http://localhost:4000)
