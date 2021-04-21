@@ -35,7 +35,7 @@ For Linux the equivalent using apt, yum, emerge etc.
 
 If all went well you can now run `rake preview` and see the result on [http://localhost:4000](http://localhost:4000)
 
-## Background 
+## Technical background 
 
 This site:
 - is deployed using [GitHub Pages](https://pages.github.com/)
@@ -46,9 +46,11 @@ Publishing a Jekyll site constists of 2 steps: `build` (generate HTML) and `depl
 
 Out-of-the-box Jekyll with GitHub Pages only allows for fully automated publishing when using a [limited, white-listed, set of Jekyll extensions](https://pages.github.com/versions/). Sites requiring non white-listed Jekyll extensions such as Jekyll-Scholar need to implement their publishing steps themselves.
 
-A common way of doing that is by creating a 'CI pipeline' using something like [Github Actions](https://docs.github.com/en/actions) or [Travis](https://travis-ci.org/). There are a number of [Jekyll related actions in the GitHub marketplace](https://github.com/marketplace?query=jekyll) that help with this. In general CI pipelines are indispensible tools for collaborative projects, they do however come with added complexity and maintenance cost.
+A common way of doing that is by creating a CI pipeline using something like [Github Actions](https://docs.github.com/en/actions) or [Travis](https://travis-ci.org/). There are a number of [Jekyll related actions in the GitHub marketplace](https://github.com/marketplace?query=jekyll) that help with this. In general CI pipelines are indispensible tools for collaborative projects, they do however come with the cost of added complexity and maintenance.
 
-This site is not managed by a team and needs to be as low maintenance as possible. For this reason this site uses the simplest possible way for publishing a Jekyll site: generate the HTML locally (on your laptop) and then push the generated HTML to a repository that contains only the generated static HTML. All logic is implemented as a series of [Rake tasks](https://github.com/ruby/rake):
+ This site generator needs to be as low maintenance as possible for as long as possible. For this reason it uses the simplest possible way for publishing a Jekyll site: generate the HTML locally and then push the generated HTML to the [GitHub Pages](https://pages.github.com/) repository. 
+
+All logic is implemented as a series of [Rake tasks](https://github.com/ruby/rake):
 - `rake build` generates HTML
 - `rake preview` generates HTML and launches a webserver for preview on [http://localhost:4000](http://localhost:4000)
 - `rake publish` generates HTML and pushes it to the main branch of [https://github.com/marialoni/marialoni.github.io](https://github.com/marialoni/marialoni.github.io)
