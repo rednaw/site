@@ -18,7 +18,7 @@ After initial setup (see below) changes are done in three steps:
     
     This will take care that your changes are committed to version control and your changes are made public.
 
-## Setup
+## Local setup
 
 #### System wide setup, one time only, as user with administrator privileges.
 - [Install Homebrew](https://brew.sh/)
@@ -37,7 +37,7 @@ For Linux the equivalent using apt, yum, emerge etc.
 
 If all went well you can now run `rake preview` and see the result on [http://localhost:4000](http://localhost:4000)
 
-## Technical background 
+## Deployment
 
 This site:
 - is deployed using [GitHub Pages](https://pages.github.com/)
