@@ -22,6 +22,7 @@ GEM
     eventmachine (1.2.7)
     ffi (1.15.0)
     forwardable-extended (2.6.0)
+    highline (2.0.3)
     http_parser.rb (0.6.0)
     i18n (1.8.10)
       concurrent-ruby (~> 1.0)
@@ -80,6 +81,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  highline
   jekyll
   jekyll-scholar
 

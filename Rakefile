@@ -1,8 +1,5 @@
-require "bundler/setup"
-require "jekyll"
-require "rubygems"
 require "tmpdir"
-require "fileutils"
+require 'highline'
 
 NAME = "rednaw"
 REPO = "#{NAME}.github.io"
@@ -19,9 +16,15 @@ task :test => :build do
   system "jekyll doctor"
 end
 
+def get_message()
+  cli = HighLine.new
+  cli.ask "Message:"
+end
+
 task :push => :test do
+  message = get_message()
   system "git add ."
-  system "git commit -m 'Site updated'"
+  system "git commit -m '#{message}'"
   system "git push"
 end
 
