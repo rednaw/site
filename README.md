@@ -16,12 +16,13 @@ After initial setup (see below) changes are done in three steps:
     
     This will take care that your changes are committed to version control and your changes are made public.
 
-## Setup (MacOSX)
+## Setup
 
 #### System wide setup, one time only, as user with administrator privileges.
 - [Install Homebrew](https://brew.sh/)
 - Use Homebrew to [install Git](https://git-scm.com/download/mac)
 - Use Homebrew to [install Rbenv](https://github.com/rbenv/rbenv#installation)
+(for linux the equivalent using apt or yum)
 
 #### Local setup, one time only, as regular user.
 - Use Rbenv to [install Ruby](https://github.com/rbenv/rbenv#installing-ruby-versions) (version 2.6 or higher)
