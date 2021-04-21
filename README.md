@@ -22,7 +22,8 @@ After initial setup (see below) changes are done in three steps:
 - [Install Homebrew](https://brew.sh/)
 - Use Homebrew to [install Git](https://git-scm.com/download/mac)
 - Use Homebrew to [install Rbenv](https://github.com/rbenv/rbenv#installation)
-(for linux the equivalent using apt or yum)
+
+For Linux the equivalent using apt, yum, emerge etc.
 
 #### Local setup, one time only, as regular user.
 - Use Rbenv to [install Ruby](https://github.com/rbenv/rbenv#installing-ruby-versions) (version 2.6 or higher)
