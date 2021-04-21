@@ -27,9 +27,9 @@ Publishing a Jekyll site constists of 2 steps: `build` (generate HTML) and `depl
 
 Out-of-the-box Jekyll with GitHub Pages only allows for fully automated publishing when using a [limited, white-listed, set of Jekyll extensions](https://pages.github.com/versions/). Sites requiring non white-listed Jekyll extensions such as Jekyll-Scholar need to implement their publishing steps themselves.
 
-A classical way of doing that is via a CI pipeline using [Github Actions](https://docs.github.com/en/actions) or [Travis](https://travis-ci.org/). While this is easy to set up it does mean adding extra technologies with their own complexities and maintenance need. CI pipelines are indispensible tools for teams but are a bit overkill for this site (at least for now).
+A common way of doing that is by creating a 'CI pipeline' using something like [Github Actions](https://docs.github.com/en/actions) or [Travis](https://travis-ci.org/). There are a number of [Jekyll related actions in the GitHub marketplace](https://github.com/marketplace?query=jekyll) that help with this. In general CI pipelines are indispensible tools for collaborative projects, they do however come with added complexity and maintenance cost.
 
-For this reason this site uses the simplest possible way for publishing a Jekyll site: generate the HTML locally (on your laptop) and then push the generated HTML to a repository that contains only the generated static HTML. This logic is implemented as a series of [Rake tasks](https://github.com/ruby/rake):
+This site is not managed by a team and needs to be as low maintenance as possible. For this reason this site uses the simplest possible way for publishing a Jekyll site: generate the HTML locally (on your laptop) and then push the generated HTML to a repository that contains only the generated static HTML. All logic is implemented as a series of [Rake tasks](https://github.com/ruby/rake):
 - `rake build` generates HTML
 - `rake preview` generates HTML and launches a webserver for preview on [http://localhost:4000](http://localhost:4000)
 - `rake publish` generates HTML and pushes it to the main branch of [https://github.com/marialoni/marialoni.github.io](https://github.com/marialoni/marialoni.github.io)
@@ -37,15 +37,17 @@ For this reason this site uses the simplest possible way for publishing a Jekyll
 
 ## Setup (MacOSX)
 
-#### System wide setup, one time only, as root
+#### System wide setup, one time only, as user with administrator privileges.
 - [Install Homebrew](https://brew.sh/)
 - Use Homebrew to [install Git](https://git-scm.com/download/mac)
 - Use Homebrew to [install Rbenv](https://github.com/rbenv/rbenv#installation)
 
-#### Local setup, in home directory, as normal user
-- Use Git to [clone https://github.com/marialoni/site](https://github.com/marialoni/site)
+#### Local setup, one time only, as regular user.
 - Use Rbenv to [install Ruby](https://github.com/rbenv/rbenv#installing-ruby-versions) (version 2.6 or higher)
 - Use Ruby to [install Bundler](https://github.com/rbenv/rbenv#installing-ruby-gems)
+
+#### Project developent setup, as regular user.
+- Use Git to [clone https://github.com/marialoni/site](https://github.com/marialoni/site)
 - Use Bundler to [download project dependencies](https://bundler.io/man/bundle-install.1.html)
 
 If all went well you can now run `rake preview` and see the result on [http://localhost:4000](http://localhost:4000)
