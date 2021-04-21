@@ -5,7 +5,7 @@ NAME = "rednaw"
 REPO = "#{NAME}.github.io"
 
 task :get_message do
-  @message = HighLine.new().ask('Message:') if @message.nil?
+  @message = HighLine.new().ask('Please provide a short commit message:') if @message.nil?
 end
 
 task :clean do

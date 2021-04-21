@@ -5,8 +5,6 @@ This project backs https://www.marialoni.org, the most important directories and
 - **resources** All resources (pdfs) go here
 - **_include/contact.md** contact information
 
-The other files and directories are mostly technical. These only need to be changed if the structure of the site itself needs to be changed.  Things like changing the layout, navigation, style or adding a new page or subsite.
-
 Regular (non-structural) changes are done in three steps:
 1. **Make changes** by editing content and/or adding resources.
     
