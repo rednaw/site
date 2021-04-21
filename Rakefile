@@ -20,6 +20,10 @@ task :test => :build do
   system "jekyll doctor"
 end
 
+task :preview => :test do
+  system "jekyll serve"
+end
+
 task :push => [:get_message, :test] do
   system "git add ."
   system "git commit -m '#{@message}'"
