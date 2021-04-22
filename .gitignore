@@ -1,3 +1,9 @@
+# jekyll
 .jekyll-cache
 _site
+
+# ruby
 Gemfile.lock
+
+# finder
+.DS_Store

@@ -4,14 +4,6 @@ require 'highline'
 NAME = "rednaw"
 REPO = "#{NAME}.github.io"
 
-task :get_message do
-  if @message.nil?
-    @message = HighLine.new().ask("\n\nPlease provide a short commit message:") { |q| 
-      q.validate = /.+/
-    }
-  end
-end
-
 task :clean do
   system "jekyll clean"
 end
@@ -28,9 +20,9 @@ task :preview => :test do
   system "jekyll serve"
 end
 
-task :push => [:get_message, :test] do
+task :push => [:test] do
   system "git add ."
-  system "git commit -m '#{@message}'"
+  system "git commit -m 'update'"
   system "git push"
 end
 
@@ -42,7 +34,7 @@ task :publish => [:push] do
     system "cp _includes/README.md #{clone_dir}/"
     system "cp _includes/CNAME #{clone_dir}/"
     system "git -C #{clone_dir} add ."
-    system "git -C #{clone_dir} commit -m '#{@message}'"
+    system "git -C #{clone_dir} commit -m 'update'"
     system "git -C #{clone_dir} push"
   }
 end
