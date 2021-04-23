@@ -29,7 +29,7 @@ The corpus is searchable through an [online web interface](https://osf.io/z2j9e/
 Full documentation describing the organization of the database and the search functionality, as well as highlights of key results, is available [here](/resources/indefinites-documentation.pdf). 
 
 The following publications are based on data included in the database
-{% bibliography -f content/aloni.bib -q @*[key=AguilarEtAl2011] %}
+{% bibliography -f content/aloni.bib -q @*[key=AguilarEtAl2011a] %}
 {% bibliography -f content/aloni.bib -q @*[key=AloniEtAl2012] %}
 
 **External References**
