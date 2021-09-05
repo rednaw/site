@@ -1,7 +1,7 @@
 ---
 title: Indefinites and beyond - Results
 layout: indefinites
-permalink: /Indefinites/results
+permalink: ./Indefinites/results
 ---
 **Poster Presentations**
 {% bibliography -f content/Indefinites/indefinites.bib -q @*[

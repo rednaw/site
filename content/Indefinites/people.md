@@ -1,7 +1,7 @@
 ---
 title: Indefinites and beyond - People
 layout: indefinites
-permalink: /Indefinites/people
+permalink: ./Indefinites/people
 ---
 
 **People**

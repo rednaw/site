@@ -1,7 +1,7 @@
 ---
 title: Indefinites and beyond - Evolutionary pragmatics and typological semantics
 layout: indefinites
-permalink: /Indefinites/corpus
+permalink: ./Indefinites/corpus
 ---
 **A Corpus of Indefinite Uses**
 

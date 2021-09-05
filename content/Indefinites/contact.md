@@ -1,7 +1,7 @@
 ---
 title: Indefinites and beyond - Contact
 layout: indefinites
-permalink: /Indefinites/contact
+permalink: ./Indefinites/contact
 ---
 
 #### For further information please consult

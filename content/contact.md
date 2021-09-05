@@ -1,7 +1,7 @@
 ---
 title: Contact - Maria Aloni
 layout: default
-permalink: /contact
+permalink: ./contact
 ---
 
 ## Contact information

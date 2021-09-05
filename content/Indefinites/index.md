@@ -1,7 +1,7 @@
 ---
 title: Indefinites and beyond - Evolutionary pragmatics and typological semantics
 layout: indefinites
-permalink: /Indefinites
+permalink: ./Indefinites
 ---
 **Project title:** Indefinites and beyond. Evolutionary pragmatics and typological semantics.
 

@@ -1,7 +1,7 @@
 ---
 title: Teaching - Maria Aloni
 layout: default
-permalink: /teaching
+permalink: ./teaching
 ---
 
 ## Teaching

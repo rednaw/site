@@ -1,7 +1,7 @@
 ---
 title: Publications - Maria Aloni
 layout: default
-permalink: /publications
+permalink: ./publications
 ---
 
 ## Publications
