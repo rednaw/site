@@ -1,0 +1,30 @@
+name: Deploy
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout project
+        uses: actions/checkout@v2
+
+      - name: Build Jekyll site
+        run: |
+          docker run \
+          -v ${{ github.workspace }}:/srv/jekyll \
+          -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+          jekyll/builder:latest /bin/bash -c \
+          "chmod -R 777 /srv/jekyll && bundle install && jekyll build"
+
+      - name: Test site
+        run: |
+          ls -lR _site
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: gh-pages 
+          folder: _site
