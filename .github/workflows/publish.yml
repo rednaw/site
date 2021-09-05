@@ -20,6 +20,7 @@ jobs:
       - name: Build 🔨
         uses: limjh16/jekyll-action-ts@v2
         with:
+          enable_cache: true
           format_output: true
 
       - name: Deploy 🚀
