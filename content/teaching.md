@@ -6,12 +6,14 @@ permalink: ./teaching
 
 ## Teaching
 
-*[Master of Logic](https://msclogic.illc.uva.nl)*. ILLC, University of Amsterdam.
+**Programmes**
+* [Minor Logic and Computation](https://www.illc.uva.nl/MinorLoCo/). ILLC, University of Amsterdam.
+* [Master of Logic](https://msclogic.illc.uva.nl). ILLC, University of Amsterdam.
+* [MA Philosophy](https://gsh.uva.nl/content/masters/philosophy/philosophy.html). Department of Philosophy, University of Amsterdam.
+* [BA Filosofie](https://www.uva.nl/programmas/bachelors/filosofie/filosofie.html). Department of Philosophy, University of Amsterdam.
 
-*Logic, Language and Computation*. Master of Logic course, ILLC, University of Amsterdam.
-
-*Structures for Semantics*. Master of Logic course, ILLC, University of Amsterdam.
-
-*Logic and the Linguistic Turn* (in Dutch). Undergraduate course, Department of Philosophy, University of Amsterdam.
-
-
+**[Courses in 2021/22](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-docent/docent/9379)**
+* Colloquium Philosophy
+* Structures for Semantics
+* MoL Graduation Trajectory
+* Project Logic and Computation 1 & 2

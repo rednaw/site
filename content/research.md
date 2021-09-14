@@ -11,13 +11,18 @@ permalink: ./research
 **Narrow:** Quantification, intensionality (propositional attitudes, modality), reference, questions, imperatives, focus-topic structure, presupposition, indefinites, free choice phenomena, ellipsis, implicatures, exhaustification, dynamic semantics, optimality theory.
 
 ##  Projects
-- From Nov 2007. NWO *Vidi*-grant: [**Indefinites and beyond. Evolutionary pragmatics and typological semantics**](/Indefinites). Principal Investigator.
+- Current. Logic and Conversation: beyond the canonical divide
+
+  People draw conclusions beyond what is literally said and often reason contrary to the prescription of classical logic. In this project we study cases of divergence between logic and language, and, challenging the canonical view, we hypothesise that they are a straightforward consequence of a tendency in human cognition to neglect empty representations (neglect-zero). We develop logics where we formally represent neglect-zero and rigorously study its impact on interpretation; explore its possible lexicalizations in specific linguistic domains; and experimentally investigate its impact in ordinary conversations and its conjectured suspension for example in the context of a mathematical proof.
+- From Nov 2007. NWO *Vidi*-grant: [**Indefinites and beyond. Evolutionary pragmatics and typological semantics**]({{ site.baseurl }}/Indefinites). Principal Investigator.
 
   People can and do infer information above and beyond what other people actually say.  Focusing on expressions with indefinite reference, this research project studies how these inferences based on language use can become part of literal meaning in historical processes of conventionalizations. To this aim the project includes a number of synchronic and diachronic studies of indefinite words in various languages and  develops formal models of their variation in meaning and use.
 - 2004--2007. NWO *Veni*-grant: **Semantic Structure and Dynamics in Natural Language Interpretation**. Main Researcher.
 
   The idea at the heart of this project is that semantic structures normally held to play a role in the analysis of questions and focus may enter the recursive characterization of the semantics of a much wider range of natural language expressions including free choice indefinites, disjunctions, modals, imperatives.
+
 - 2005--2007. EU project Language Technology for eLearning. Support Management.
+
 - 2001-2004. NWO project Formal Language Game. Researcher.
 
 ## PhD Thesis

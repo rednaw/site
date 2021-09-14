@@ -1,17 +1,23 @@
 ---
 ---
 <div>
+  {% if entry.external %}
+  <a href="{{ entry.external }}">{{reference}}</a>
+  {% else %}
   {{reference}}
+  {% endif %}
+  {{entry.note}}
 </div>
 <div>
   {% if link %}
-    <a href="{{ link }}">[Pdf]</a>
+  <a href="{{ link }}">[pdf]</a>
+  {% endif %}
+  {% if entry.doi %}
+  <a href="{{ entry.doi | prepend: 'https://doi.org/' }}">[doi]</a>
+  {% endif %}
+  {% if entry.slides %}
+  <a href="{{ entry.slides | prepend: 'http://127.0.0.1:4000/marialoni.org/resources/' }}">[slides]</a>
   {% endif %}
   <button class="aslink" data-toggle="collapse" data-target="#{{entry.key}}_bibtex">[BibTex]</button>
-  {% if entry.doi %}
-    <a href="{{ entry.doi | prepend: 'https://doi.org/' }}">[Doi]</a>
-  {% endif %}
   <pre id="{{entry.key}}_bibtex" class="collapse">{{ entry.bibtex }}</pre>
 </div>
-
-

@@ -6,23 +6,30 @@ permalink: ./publications
 
 ## Publications
 
+<br />
 #### Drafts
 {% bibliography -f content/aloni.bib --query @unpublished %}
 
+<br />
 #### Journal articles
 {% bibliography -f content/aloni.bib --query @article]%}
 
+<br />
 #### Book chapters
 {% bibliography -f content/aloni.bib --query @incollection %}
 
-#### Conference papers
+<br />
+#### Conference papers / Presentations
 {% bibliography -f content/aloni.bib --query @inproceedings %}
 
+<br />
 #### Books
 {% bibliography -f content/aloni.bib --query @phdthesis %}
 
+<br />
 #### Edited volumes / Special issues
 {% bibliography -f content/aloni.bib --query @book]%}
 
-
+<br />
+<br />
 
