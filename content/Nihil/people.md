@@ -5,6 +5,7 @@ permalink: ./Nihil/people
 ---
 
 **People**
+
 - [Maria Aloni](https://www.marialoni.org) 
 - Aleksi Anttila
 - Marco Degano
