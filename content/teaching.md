@@ -12,8 +12,17 @@ permalink: ./teaching
 * [MA Philosophy](https://gsh.uva.nl/content/masters/philosophy/philosophy.html). Department of Philosophy, University of Amsterdam.
 * [BA Filosofie](https://www.uva.nl/programmas/bachelors/filosofie/filosofie.html). Department of Philosophy, University of Amsterdam.
 
-**[Courses in 2021/22](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-docent/docent/9379)**
-* Colloquium Philosophy
+**[Courses in 2021/22](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-docent/docent/9379)** 
 * Structures for Semantics
+* Semantics and Philosophy
+* Colloquium Philosophy
 * MoL Graduation Trajectory
 * Project Logic and Computation 1 & 2
+
+**[Courses in 2020/21](https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-docent/docent/9379)** 
+* Logica en de Linguistic Turn
+* Structures for Semantics
+* Semantics and Philosophy
+* Colloquium Philosophy
+* MoL Graduation Trajectory
+
