@@ -13,7 +13,7 @@ permalink: ./Nihil/results
   key=AlonivOrmondt21 
 ]%}
 
-{% bibliography -f content/nihil.bib -q @*[
+{% bibliography -f content/nihil/nihil.bib -q @*[
   key=Anttila21
 ]%}
  
