@@ -12,4 +12,4 @@ permalink: ./Nihil/results
   key=Aloni2021 
 ]%}
 
-**Activities**
+
