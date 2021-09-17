@@ -4,8 +4,12 @@ layout: nihil
 permalink: ./Nihil/results
 ---
 
-**Poster Presentations**
+
 
 **Articles**
+{% bibliography -f content/aloni.bib -q @*[
+  key=AlonivOrmondt21 ||
+  key=Aloni2021 
+]%}
 
 **Activities**
