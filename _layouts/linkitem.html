@@ -1,14 +1,13 @@
 ---
 ---
 <div>
-  {% if entry.external %}
-  <a href="{{ entry.external }}">{{reference}}</a>
-  {% else %}
   {{reference}}
-  {% endif %}
   {{entry.note}}
 </div>
 <div>
+  {% if entry.external %}
+  <a href="{{ entry.external }}">[link]</a>
+  {% endif %}
   {% if link %}
   <a href="{{ link }}">[pdf]</a>
   {% endif %}
