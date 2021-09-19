@@ -1,5 +1,5 @@
-url : https://rednaw.github.io/
-baseurl: /marialoni.org
+url: https://rednaw.github.io/
+#baseurl: /marialoni.org
 
 # bootstrap_version: 4.5.3
 # jquery_version: 3.6.0
@@ -13,12 +13,10 @@ exclude:
 
 # See https://www.zotero.org/styles for more styles
 scholar:
-   source: .
-   style: ./style/archiv-fur-geschichte-der-philosophie.csl
-   sort_by: year
-   order: descending
-   bibliography_list_tag: ul
-   repository: ./resources
-   bibliography_template: linkitem
-
-
+  source: .
+  style: ./style/archiv-fur-geschichte-der-philosophie.csl
+  sort_by: year
+  order: descending
+  bibliography_list_tag: ul
+  repository: ./resources
+  bibliography_template: linkitem
