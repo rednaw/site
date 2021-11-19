@@ -11,5 +11,6 @@ permalink: ./Nihil/people
 - Marco Degano
 - Peter van Ormondt
 - Jialiang Yang
+- [Fan Yang](https://sites.google.com/site/fanyanghp/)
 
 
