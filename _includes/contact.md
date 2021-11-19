@@ -1,4 +1,4 @@
-Maria Aloni   
+Maria Aloni  
 Associate Professor Logic and Language
 ILLC & Philosophy
 University of Amsterdam
@@ -7,7 +7,6 @@ University of Amsterdam
  
 _ILLC_  
 Science Park 107
-
 1098 XG Amsterdam
 The Netherlands
 
