@@ -1,17 +1,26 @@
 Maria Aloni   
 Associate Professor Logic and Language  
-ILLC & Philosophy - University of Amsterdam
-
- 
- 
-| ILLC:                                      |   Department of Philosophy                           |
-| Science Park 107                           |   Oude Turfmarkt 141-143                             |
-| 1098 XG Amsterdam                          |   1012 GC Amsterdam                                  |
-| The Netherlands                            |   The Netherlands                                    |
-|                                            |                                                      |
-| **Room:** F1.05                            |   **Room:** 2.12 (OTM 143)                           |
-| **Tel:** +31 20 5254537                    |   **Tel:** +31 20 5252189                            |
-                          
+ILLC & Philosophy
+University of Amsterdam
 
 **Email:** M.D.Aloni[at]uva[dot]nl 
+ 
+_ILLC_  
+Science Park 107
+1098 XG Amsterdam
+The Netherlands
+
+**Room:** F1.05 
+**Tel:** +31 20 5254537
+
+_Philosophy_                           
+Oude Turfmarkt 141-143                             
+1012 GC Amsterdam                                   
+The Netherlands                                                                  
+                                                                                              
+**Room:** 2.12 (OTM 143)                           
+**Tel:** +31 20 5252189                            
+                          
+
+ 
 
