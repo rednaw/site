@@ -14,10 +14,10 @@ permalink: ./introduction-to-logic
 **Coordinator:** [Maria Aloni](https://www.marialoni.org/)<br>
 **Instructors:** Peter van Ormondt and Maria Aloni
 
-This introductory course to logic is part of the [Minor Logic and Computation](https://www.illc.uva.nl/MinorLoCo/). The course is offered as a self-study with opportunities for final exams in blocks 1, 3 and 6. One week before each exam there will be one Q&A session with the instructors. Here is the schedule with time and location of the exams and the Q&A sessions in 2021/22: [DataNose](https://datanose.nl/#course[100074]).
+This introductory course to logic is part of the [Minor Logic and Computation](https://www.illc.uva.nl/MinorLoCo/). The course is offered as a self-study with opportunities for final exams in blocks 1, 3 and 6. One week before each exam there will be one Q&A session with the instructors. The schedule with time and location of the exams and the Q&A sessions can be found in [DataNose](https://datanose.nl/#course[100074]).
 
 ## Course description
-The course is intended primarily for students who wish to do the [Minor Logic and Computation](https://www.illc.uva.nl/MinorLoCo/) but who have not yet followed an introductory course to logic. Students are expected to cover the course material by self-study alone. The written exam will assess students' knowledge of the following topics:
+The course is intended primarily for students who wish to do the [Minor Logic and Computation](https://www.illc.uva.nl/MinorLoCo/) but who have not yet followed an introductory course to logic. Students are expected to cover the course material by self-study alone. The written exam will assess students' knowledge of the following topics: 
 
 - Propositional logic
   - Syntax, semantics
@@ -79,7 +79,7 @@ Once you have studied the course materials it is time to test yourself. If you a
 - [Solutions](https://staff.fnwi.uva.nl/p.vanormondt/files/solutions-test-exam.pdf)
 
 ## Examination
-Grading will be based on a written exam. In 2021/22 there are three opportunities for a final exam on 7 October, 3 February and 30 June. The exams will take place in Science Park. Consult DataNose for time and exact locations:[DataNose](https://datanose.nl/#course[100074])
+Grading will be based on a written exam. In 2021/22 there are three opportunities for a final exam on 7 October, 3 February and 30 June. The exams will take place in Science Park. Consult DataNose for exact time and locations: [DataNose](https://datanose.nl/#course[100074])
 
 ## Registration
 Only registered students are admitted to the exams. To register please send an email to the Minor coordinator at minor-loco-illcATuva.nl at least one month before the exam.
