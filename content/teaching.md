@@ -17,7 +17,8 @@ permalink: ./teaching
 * Semantics and Philosophy
 * Colloquium Philosophy
 * MoL Graduation Trajectory
-* Project Logic and Computation 1 & 2
+* Project Logic and Computation 1 and 2 
+* [Introduction to logic]({{ site.baseurl }}/introduction-to-logic)
 
 **[Courses in 2020/21](https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-docent/docent/9379)** 
 * Logica en de Linguistic Turn
