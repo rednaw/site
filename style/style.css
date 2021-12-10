@@ -101,3 +101,19 @@ div.project_left {
   border-right-color: black;
   border-right: solid;
 }
+
+img.illclogo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+td.bookcover {
+    border: 1px solid black;
+}
+
+hr.bookcover {
+  width:40%;
+  border-color:black;
+}
