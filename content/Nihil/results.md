@@ -3,7 +3,8 @@ title: Nihil - Results
 layout: nihil
 permalink: ./Nihil/results
 ---
-**Activities** 
+**Activities**   
+
 [Team Semantics and Dependence: Linguistic and Philosophical Applications.](https://m-degano.github.io/teaching/january-project/) Master of Logic January project 2022. ILLC University of Amsterdam. 
 
 **Results**
