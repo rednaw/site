@@ -10,7 +10,7 @@ permalink: ./Nihil/people
 - Aleksi Anttila
 - Marco Degano
 - Peter van Ormondt
-- Jialiang Yang
+- Jialiang Yan
 - [Fan Yang](https://sites.google.com/site/fanyanghp/)
 
 
