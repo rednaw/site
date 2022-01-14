@@ -9,7 +9,7 @@ permalink: ./introduction-to-logic
 </a>
 <hr/>
 
-# Introduction to logic
+# Introduction to Logic
 
 **Title:** Project Logic and Computation 1: Introduction to Logic<br>
 **Course code:** 51221PLC3Y<br>
