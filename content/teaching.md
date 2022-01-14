@@ -19,6 +19,7 @@ permalink: ./teaching
 * MoL Graduation Trajectory
 * Project Logic and Computation 1 and 2 
 * [Introduction to logic]({{ site.baseurl }}/introduction-to-logic)
+* [Team Semantics and Dependence: Linguistic and Philosophical Applications](https://m-degano.github.io/teaching/january-project/)
 
 **[Courses in 2020/21](https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-docent/docent/9379)** 
 * Logica en de Linguistic Turn
