@@ -26,13 +26,13 @@ The course is intended primarily for students who wish to do the [Minor Logic an
 - Propositional logic
   - Syntax, semantics
   - Functional completeness
-  - Notion of validity
+  - Logical validity
   - Truth Tables
   - Natural deduction
 - Predicate logic
   - Syntax, semantics
   - Interpretation by Substitution
-  - Notion of validity
+  - Logical validity
   - Identity
   - Properties of Relations
   - Natural deduction (for predicate logic without identity)
@@ -79,8 +79,8 @@ The book by Gamut is written with an eye towards applications in linguistics, wh
 ## Test exam
 Once you have studied the course materials it is time to test yourself. If you are able to make the following test exam you should be well prepared to make the real exam.<br><br>
 
-- [Test Exam](https://staff.fnwi.uva.nl/p.vanormondt/files/test-exam.pdf) 
-- [Solutions](https://staff.fnwi.uva.nl/p.vanormondt/files/solutions-test-exam.pdf)
+- [Test Exam](https://www.marialoni.org/resources/test-exam.pdf) 
+- [Solutions](https://www.marialoni.org/resources/solutions-test-exam.pdf)
 
 ## Examination
 Grading will be based on a written exam. In 2021/22 there are three opportunities for a final exam on 7 October, 3 February and 30 June. The exams will take place in Science Park. Consult DataNose for exact time and locations: [DataNose](https://datanose.nl/#course[100074])
