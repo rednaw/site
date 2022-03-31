@@ -20,6 +20,7 @@ permalink: ./teaching
 * Project Logic and Computation 1 and 2 
 * [Introduction to logic]({{ site.baseurl }}/introduction-to-logic)
 * [Team Semantics and Dependence: Linguistic and Philosophical Applications](https://m-degano.github.io/teaching/january-project/)
+* [Dynamics in Language](https://www.marialoni.org/resources/DynTutorial2022.pdf) Tutorial at Tsinghua University, 31/3/2022  
 
 **[Courses in 2020/21](https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-docent/docent/9379)** 
 * Logica en de Linguistic Turn
