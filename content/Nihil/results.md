@@ -9,11 +9,11 @@ permalink: ./Nihil/results
 
 **Results**
 {% bibliography -f content/aloni.bib -q @*[
-  key=Aloni2021x ||
+  key=Aloni2022y ||
 ]%}
 
 {% bibliography -f content/aloni.bib -q @*[
-  key=Aloni2021 ||
+  key=S&P22Finalx ||
 ]%}
 
 {% bibliography -f content/aloni.bib -q @*[
