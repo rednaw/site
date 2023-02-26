@@ -12,13 +12,13 @@ permalink: ./Nihil/people
 - [Marco Degano](https://m-degano.github.io)
 - Tomasz Klochowicz
 - [Peter van Ormondt](https://www.vanormondt.net/~peter/)
-- [Giorgio Sbardolini](https://sites.google.com/view/giorgiosbardolini/home)
 - [Jialiang Yan](https://yanjialiang.com)
 
 **Collaborators**
 
 - [Nick Bezhanishvili](https://staff.fnwi.uva.nl/n.bezhanishvili/)
 - [Floris Roelofsen](https://www.florisroelofsen.com)
+- [Giorgio Sbardolini](https://sites.google.com/view/giorgiosbardolini/home)
 - [Fan Yang](https://sites.google.com/site/fanyanghp/)
 
 
