@@ -13,10 +13,6 @@ permalink: ./publications
 <br />
 #### 2022
 {% bibliography -f content/aloni.bib --query @2022]%}
-<br />
-
-#### 2022
-{% bibliography -f content/aloni.bib --query @2022]%}
 
 <br />
 #### Journal articles
