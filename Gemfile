@@ -1,11 +1,10 @@
 source 'https://rubygems.org'
 
-gem "jekyll"
-gem "highline"
-gem "rake"
+gem 'highline', '~> 2.1'
+gem 'jekyll', '4.3'
 
 group :jekyll_plugins do
-  gem 'jekyll-scholar', '~> 7.0.0'
+  gem 'jekyll-scholar', '~> 7.1'
 end
 
 
