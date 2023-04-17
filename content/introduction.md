@@ -83,10 +83,10 @@ Once you have studied the course materials it is time to test yourself. If you a
 - [Solutions](https://www.marialoni.org/resources/solutions-test-exam.pdf)
 
 ## Examination
-Grading will be based on a written exam. In 2021/22 there are three opportunities for a final exam on 7 October, 3 February and 30 June. The exams will take place in Science Park. Consult DataNose for exact time and locations: [DataNose](https://datanose.nl/#course[100074])
+Grading will be based on a written exam. Every year there are three opportunities for a final exam in periods 1 (September), 3 (January) and 6 (June). The exams will take place in Science Park. Consult DataNose for exact time and locations: [DataNose](https://datanose.nl/#course[110214])
 
 ## Registration
-Only registered students are admitted to the exams. To register please send an email to the Minor coordinator at <a href = "mailto: minor-loco-illc@uva.nl">minor-loco-illc@uva.nl</a> at least one month before the exam.
+Only registered students are admitted to the exams. To register please follow the instructions here: [UvA course registration](https://student.uva.nl/en/topics/course-registration). For late registration, please send an email to the Minor coordinator at <a href = "mailto: minor-loco-illc@uva.nl">minor-loco-illc@uva.nl</a> at least one month before the exam.
 
 ## Contact
 Contact the coordinator in case you have questions, suggestions or complaints.
