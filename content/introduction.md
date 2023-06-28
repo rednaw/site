@@ -11,14 +11,14 @@ permalink: ./introduction-to-logic
 
 # Introduction to Logic
 
-**Title:** Project Logic and Computation 1: Introduction to Logic<br>
-**Course code:** 51221PLC3Y<br>
+**Title:** Logic and Computation: Introduction to Logic<br>
+**Course code:** 5122LCIT3Y<br>
 **Credits:** 3 EC<br>
 **Course load:** 4 weeks programme (part time) / 2 weeks programme (fulltime)<br>
 **Coordinator:** [Maria Aloni](https://www.marialoni.org/)<br>
-**Instructors:** Peter van Ormondt and Maria Aloni
+**Instructor:**  Maria Aloni
 
-This introductory course to logic is part of the [Minor Logic and Computation](https://www.illc.uva.nl/MinorLoCo/), ILLC, University of Amsterdam. The course is offered as a self-study with opportunities for final exams in blocks 1, 3 and 6. One week before each exam there will be one Q&A session with the instructors. The schedule with time and location of the exams and the Q&A sessions can be found in [DataNose](https://datanose.nl/#course[100074]).
+This introductory course to logic is part of the [Minor Logic and Computation](https://www.illc.uva.nl/MinorLoCo/), ILLC, University of Amsterdam. The course is offered as a self-study with opportunities for final exams in blocks 1, 3 and 6. One week before each exam there will be one Q&A session with the instructors. The schedule with time and location of the exams and the Q&A sessions can be found in [DataNose](https://datanose.nl/#course[121270]).
 
 ## Course description
 The course is intended primarily for students who wish to do the [Minor Logic and Computation](https://www.illc.uva.nl/MinorLoCo/) but who have not yet followed an introductory course to logic. Students are expected to cover the course material by self-study alone. The written exam will assess students' knowledge of the following topics:<br><br>
@@ -83,7 +83,7 @@ Once you have studied the course materials it is time to test yourself. If you a
 - [Solutions](https://www.marialoni.org/resources/solutions-test-exam.pdf)
 
 ## Examination
-Grading will be based on a written exam. Every year there are three opportunities for a final exam in periods 1 (September), 3 (January) and 6 (June). The exams will take place in Science Park. Consult DataNose for exact time and locations: [DataNose](https://datanose.nl/#course[110214])
+Grading will be based on a written exam. Every year there are three opportunities for a final exam in periods 1 (September), 3 (January) and 6 (June). The exams will take place in Science Park. Consult DataNose for exact time and locations: [DataNose](https://datanose.nl/#course[121270]).
 
 ## Registration
 Only registered students are admitted to the exams. To register please follow the instructions here: [UvA course registration](https://student.uva.nl/en/topics/course-registration). For late registration, please send an email to the Minor coordinator at <a href = "mailto: minor-loco-illc@uva.nl">minor-loco-illc@uva.nl</a> at least one month before the exam.
