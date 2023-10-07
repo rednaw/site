@@ -5,7 +5,9 @@ permalink: ./publications
 ---
 ## Recent presentations
 
-M Aloni Neglect-zero effects at the semantics-pragmatics interface, UMass Amherst Linguistics Colloquium, 6 October 2023
+- M Aloni. Neglect-zero effects at the semantics-pragmatics interface, [slides](resources/UMass23.pdf)
+UMass Amherst Linguistics Colloquium, 6 October 2023
+  
 
 ## Publications
 
