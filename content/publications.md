@@ -3,6 +3,9 @@ title: Publications - Maria Aloni
 layout: default
 permalink: ./publications
 ---
+## Recent presentations
+
+M Aloni Neglect-zero effects at the semantics-pragmatics interface, UMass Amherst Linguistics Colloquium, 6 October 2023
 
 ## Publications
 
