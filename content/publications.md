@@ -4,7 +4,7 @@ layout: default
 permalink: ./publications
 ---
 
-### **Recent presentations**
+## Recent presentations
 
 * M Aloni. Nothing is Logical, [slides](resources/NYU23.pdf)
 The New York Philosophy of Language Workshop, 16 October 2023
