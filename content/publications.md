@@ -7,7 +7,7 @@ permalink: ./publications
 ## Recent presentations
 
 * M Aloni (joint work with T Klochowicz and G Sbardolini). Neglect-zero and no-split: cognitive biases at the semantic-pragmatic interface,
-[slides](resources/FC-workshop24.pdf)
+[slides](resources/FCworkshop24.pdf),
 [Free Choice Inferences: Theoretical and experimental approaches](https://sites.google.com/view/acquisitiondisjunctionromanian/fc-workshop?authuser=0), 15 May 2024
 
 * M Aloni. Nothing is Logical, [slides](resources/NYU23.pdf)
