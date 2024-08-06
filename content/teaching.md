@@ -28,6 +28,7 @@ permalink: ./teaching
 * MoL Graduation Trajectory
 * Project Logic and Computation 1 and 2 
 * [Introduction to logic]({{ site.baseurl }}/introduction-to-logic)
+* [Team Semantics: Linguistic and Philosophical Applications](http://tsinghualogic.net/JRC/team-semantics-linguistic-and-philosophical-applications/) The 4th Tsinghua Logic Summer School, 8-12 July 2024
 
 **[Courses in 2021/22](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-docent/docent/9379)** 
 * Structures for Semantics
@@ -36,7 +37,7 @@ permalink: ./teaching
 * MoL Graduation Trajectory
 * Project Logic and Computation 1 and 2 
 * [Introduction to logic]({{ site.baseurl }}/introduction-to-logic)
-* [Team Semantics and Dependence: Linguistic and Philosophical Applications](https://m-degano.github.io/teaching/january-project/)
+* [Team Semantics and Dependence: Linguistic and Philosophical Applications](https://dependence-project.netlify.app/project/)
 * [Dynamics in Language](https://www.marialoni.org/resources/DynTutorial2022.pdf) Tutorial at Tsinghua University, 31/3/2022  
 
 **[Courses in 2020/21](https://studiegids.uva.nl/xmlpages/page/2020-2021/zoek-docent/docent/9379)** 
