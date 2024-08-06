@@ -19,6 +19,7 @@ permalink: ./teaching
 * MoL Graduation Trajectory
 * Project Logic and Computation 1 and 2 
 * Logic and Computation: [Introduction to logic]({{ site.baseurl }}/introduction-to-logic)
+* [Team Semantics: Linguistic and Philosophical Applications](http://tsinghualogic.net/JRC/team-semantics-linguistic-and-philosophical-applications/) The 4th Tsinghua Logic Summer School, 8-12 July 2024, Beijing, China
 
 **[Courses in 2022/23](https://studiegids.uva.nl/xmlpages/page/2022-2023/zoek-docent/docent/9379)** 
 * Logica en de Linguistic Turn
@@ -28,7 +29,6 @@ permalink: ./teaching
 * MoL Graduation Trajectory
 * Project Logic and Computation 1 and 2 
 * [Introduction to logic]({{ site.baseurl }}/introduction-to-logic)
-* [Team Semantics: Linguistic and Philosophical Applications](http://tsinghualogic.net/JRC/team-semantics-linguistic-and-philosophical-applications/) The 4th Tsinghua Logic Summer School, 8-12 July 2024
 
 **[Courses in 2021/22](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-docent/docent/9379)** 
 * Structures for Semantics
