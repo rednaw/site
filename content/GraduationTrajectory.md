@@ -16,33 +16,23 @@ permalink: ./GraduationTrajectory
 **Coordinator:** [Maria Aloni](https://www.marialoni.org/)<br>
 
 ## Course description
-The goal of the MoL graduation trajectory is to provide 2nd year MoL students information and extra support in their final year.  
+The goal of the MoL graduation trajectory is to provide 2nd year MoL students information and extra support in their final year. It includes a number of information meetings (on MoL graduation procedure, PhD applications, life after ILLC), some trainings (how to write a cv/research proposal, how to write a MoL thesis),  and also 3 sessions where the ILLC research units will present themselves to the graduating students. The aim of these sessions is to give students an illustration of the topics the six groups are currently working on and which could lead to open questions to be addressed in a MoL thesis. 
+The trajectory further include two kinds of student presentations: 
+* MoL thesis presentations (mandatory for graduating students, where students present their ongoing thesis project to the ILLC community) 
+* January presentations (more informal where students present their thesis topic to each other)
 
-The trajectory will include two kinds of student presentations: 
-
-MoL thesis presentations (mandatory for graduating students, where students present their ongoing thesis project to the ILLC community) 
-
-January presentations (more informal where students present their thesis topic to each other)
-
-and a number of information meetings (on MoL graduation procedure, PhD applications, life after ILLC), some trainings
-(how to write a cv/research proposal (TBC), how to write a MoL thesis),  and also 3 sessions where the 6 ILLC research 
-units will present themselves to the graduating students. The aim of these sessions is to give students an illustration of the topics the six groups are currently working on and which could lead to open questions to be addressed in a MoL thesis. 
-
-NOTE: The trajectory is designed for 2nd year MoL students who intend to graduate in the summer of the current academic year.
-But also for students starting their thesis writing semester now, who intend to graduate in the winter. Students from 
-other cohorts or Logic Year students are also welcome to attend the sessions (in particular the research seminars).
-Also 2nd year students who intend to take an extra semester can follow the trajectory this year [advisable for those components that will come too late for them next year such as the research seminars, the January presentations, how to write a MoL thesis] but will have to do their MoL thesis presentation in Fall 2024.
+NOTE: The trajectory is designed for 2nd year MoL students who intend to graduate in the second semester of the current academic year. But also for students starting their thesis writing semester in Spetmber, who intend to graduate in the first semester. Students from other cohorts or Logic Year students are also welcome to attend the sessions (in particular the research seminars). Also 2nd year students who intend to take an extra semester can follow the trajectory this year [advisable for those components that will come too late for them next year such as the research seminars, the January presentations, how to write a MoL thesis] but will have to do their MoL thesis presentation in the next Fall semaster.
 
 
 ## Schedule 24/25
 The lectures are schedules on Wednesday, 5-7pm in room TBA
-1st Period   		 	 
-Wed, 4 Sep: no class
-Wed, 11 Sep: Introduction (Maria Aloni) & info on PhD applications (Dean McHugh) 	 
-Wed, 18 Sep: no class 	 
-Wed, 25 Sep: ILLC research unit presentations: Formal Semantics and Philosophical Logic (FSPL) & Epistemology and Philosophy of Science (EPS)           
-Wed, 2 Oct:  ILLC research unit presentations: Theoretical Computer Science  (TCS) & Mathematical and Computational Logic (MCL)
-Wed, 9 Oct:  ILLC research unit presentations:  Natural Language Processing and Digital Humanities (NLP&DH) &  18.00-18.50 Language and Music Cognition (LMC)
+** 1st Period   		 	 
+* Wed, 4 Sep: no class
+* Wed, 11 Sep: Introduction (Maria Aloni) & info on PhD applications (Dean McHugh) 	 
+* Wed, 18 Sep: no class 	 
+* Wed, 25 Sep: ILLC research unit presentations: Formal Semantics and Philosophical Logic (FSPL) & Epistemology and Philosophy of Science (EPS)           
+* Wed, 2 Oct:  ILLC research unit presentations: Theoretical Computer Science  (TCS) & Mathematical and Computational Logic (MCL)
+* Wed, 9 Oct:  ILLC research unit presentations:  Natural Language Processing and Digital Humanities (NLP&DH) &  Language and Music Cognition (LMC)
 Wed, 16 Oct: no class 
 Wed, 23 Oct: no class (exam week)    	 
 2nd Period
