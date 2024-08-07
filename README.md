@@ -1,5 +1,10 @@
 ## Quickstart
 
+[Basic syntax guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
+[Another basic syntax guide](https://www.markdownguide.org/basic-syntax/)
+
+## Overview
+
 This project generates HTML for https://www.marialoni.org
 
  The most important directories and files are:
