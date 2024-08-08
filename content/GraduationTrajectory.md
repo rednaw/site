@@ -27,11 +27,11 @@ The lectures are schedules on Wednesday, 5-7pm in room TBA
 
 ### 1st Period   		 	 
 * Wed, 4 Sep: no class
-* Wed, 11 Sep: Introduction (Maria Aloni) & info on PhD applications (Dean McHugh) 	 
+* Wed, 11 Sep: Introduction (Maria Aloni) & info on PhD applications (TBC) 	 
 * Wed, 18 Sep: Scientific Integrity - Martin Stokhof (TBC) 	 
-* Wed, 25 Sep: ILLC research unit presentations: Formal Semantics and Philosophical Logic (FSPL) & Epistemology and Philosophy of Science (EPS)           
-* Wed, 2 Oct:  ILLC research unit presentations: Theoretical Computer Science  (TCS) & Mathematical and Computational Logic (MCL)
-* Wed, 9 Oct:  ILLC research unit presentations:  Natural Language Processing and Digital Humanities (NLP&DH) &  Language and Music Cognition (LMC)
+* Wed, 25 Sep: ILLC research unit presentations: Formal Semantics and Philosophical Logic (FSPL) & Epistemology and Philosophy of Science (EPS) (TBC)           
+* Wed, 2 Oct:  ILLC research unit presentations: Theoretical Computer Science  (TCS) & Mathematical and Computational Logic (MCL) (TBC) 
+* Wed, 9 Oct:  ILLC research unit presentations:  Natural Language Processing and Digital Humanities (NLP&DH) &  Language and Music Cognition (LMC) (TBC) 
 * Wed, 16 Oct: no class 
 * Wed, 23 Oct: no class (exam week)    	 
 
@@ -41,8 +41,8 @@ The lectures are schedules on Wednesday, 5-7pm in room TBA
 * Wed, 13 Nov:  no class 
 * Wed, 20 Nov:  no class 
 * Wed, 27 Nov:  no class
-* Wed, 4 Dec:   MoL  course presentations for second semester  
-* Wed, 11 Dec:  MoL January project presentations 
+* Wed, 4 Dec:   MoL  course presentations for second semester  (TBC) 
+* Wed, 11 Dec:  MoL January project presentations (TBC) 
 * Wed, 19 Dec: no class (exam week)
 
 ### 3rd Period
