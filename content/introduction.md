@@ -18,7 +18,7 @@ permalink: ./introduction-to-logic
 **Coordinator:** [Maria Aloni](https://www.marialoni.org/)<br>
 **Instructor:**  Maria Aloni
 
-This introductory course to logic is part of the [Minor Logic and Computation](https://www.illc.uva.nl/MinorLoCo/), ILLC, University of Amsterdam. The course is offered as a self-study with opportunities for final exams in blocks 1, 3 and 6. One week before each exam there will be one Q&A session with the instructors. The schedule with time and location of the exams and the Q&A sessions can be found in [DataNose](https://datanose.nl/#course[121270]).
+This introductory course to logic is part of the [Minor Logic and Computation](https://www.illc.uva.nl/MinorLoCo/), ILLC, University of Amsterdam. The course is offered as a self-study with opportunities for final exams in blocks 1, 3 and 6. One week before each exam there will be one Q&A session with the instructors. The schedule with time and location of the exams and the Q&A sessions can be found in [DataNose](https://datanose.nl/#course[129028]).
 
 ## Course description
 The course is intended primarily for students who wish to do the [Minor Logic and Computation](https://www.illc.uva.nl/MinorLoCo/) but who have not yet followed an introductory course to logic. Students are expected to cover the course material by self-study alone. The written exam will assess students' knowledge of the following topics:<br><br>
