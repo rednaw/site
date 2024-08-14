@@ -32,7 +32,7 @@ The lectures are schedules on Wednesday, 5-7pm in room TBA
 * Wed, 18 Sep: no class  	 
 * Wed, 25 Sep: ILLC research unit presentations: TBA & TBA           
 * Wed, 2 Oct:  ILLC research unit presentations: TBA & TBA 
-* Wed, 9 Oct:  ILLC research unit presentations:  [FSPL](https://www.illc.uva.nl/Research/Organisation/Research-Units/FSPL/) & TBA 
+* Wed, 9 Oct:  ILLC research unit presentations:  [FSPL](https://www.illc.uva.nl/Research/Organisation/Research-Units/FSPL/) & [TCS](https://www.illc.uva.nl/Research/Organisation/Research-Units/TCS) 
 * Wed, 16 Oct: no class 
 * Wed, 23 Oct: no class (exam week)    	 
 
