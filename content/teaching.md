@@ -12,11 +12,19 @@ permalink: ./teaching
 * [MA Philosophy](https://gsh.uva.nl/content/masters/philosophy/philosophy.html). Department of Philosophy, University of Amsterdam.
 * [BA Filosofie](https://www.uva.nl/programmas/bachelors/filosofie/filosofie.html). Department of Philosophy, University of Amsterdam.
 
+**[Courses in 2024/25](https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-docent/docent/9379)** 
+* Structures for Semantics
+* Semantics and Philosophy
+* Colloquium Philosophy
+* [MoL Graduation Trajectory]({{ site.baseurl }}/GraduationTrajectory)
+* Project Logic and Computation 1 and 2 
+* Logic and Computation: [Introduction to logic]({{ site.baseurl }}/introduction-to-logic)
+
 **[Courses in 2023/24](https://studiegids.uva.nl/xmlpages/page/2023-2024/zoek-docent/docent/9379)** 
 * Structures for Semantics
 * Semantics and Philosophy
 * Colloquium Philosophy
-* MoL Graduation Trajectory
+* [MoL Graduation Trajectory]({{ site.baseurl }}/GraduationTrajectory)
 * Project Logic and Computation 1 and 2 
 * Logic and Computation: [Introduction to logic]({{ site.baseurl }}/introduction-to-logic)
 * [Team Semantics: Linguistic and Philosophical Applications](http://tsinghualogic.net/JRC/team-semantics-linguistic-and-philosophical-applications/) The 4th Tsinghua Logic Summer School, 8-12 July 2024, Beijing, China
