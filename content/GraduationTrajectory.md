@@ -29,10 +29,10 @@ The lectures are schedules on Wednesday, 5-7pm in room TBA
 ### 1st Period   		 	 
 * Wed, 4 Sep: no class
 * Wed, 11 Sep: Introduction (Maria Aloni) & info on PhD applications (TBC) 	 
-* Wed, 18 Sep: Scientific Integrity - Martin Stokhof (TBC) 	 
-* Wed, 25 Sep: ILLC research unit presentations: Formal Semantics and Philosophical Logic (FSPL) & Epistemology and Philosophy of Science (EPS) (TBC)           
-* Wed, 2 Oct:  ILLC research unit presentations: Theoretical Computer Science  (TCS) & Mathematical and Computational Logic (MCL) (TBC) 
-* Wed, 9 Oct:  ILLC research unit presentations:  Natural Language Processing and Digital Humanities (NLP&DH) &  Language and Music Cognition (LMC) (TBC) 
+* Wed, 18 Sep: no class  	 
+* Wed, 25 Sep: ILLC research unit presentations: TBA & TBA           
+* Wed, 2 Oct:  ILLC research unit presentations: TBA & TBA 
+* Wed, 9 Oct:  ILLC research unit presentations:  TBA & TBA 
 * Wed, 16 Oct: no class 
 * Wed, 23 Oct: no class (exam week)    	 
 
@@ -55,8 +55,8 @@ The lectures are schedules on Wednesday, 5-7pm in room TBA
 ### 4th Period
 * Wed, 5 Feb: student topic presentations
 * Wed, 12 Feb: student topic presentations
-* Wed, 19 Feb: How to write a MoL thesis  
-* Wed, 26 Feb: no class  
+* Wed, 19 Feb: How to write a MoL thesis (TBC)  
+* Wed, 26 Feb: Scientific Integrity - Martin Stokhof (TBC)  
 * Wed, 5 March: no class
 * Wed, 12 March: no class
 * Wed, 19 March: no class
