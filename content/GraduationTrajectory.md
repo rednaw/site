@@ -56,7 +56,7 @@ The lectures are schedules on Wednesday, 5-7pm in room TBA
 * Wed, 5 Feb: student topic presentations
 * Wed, 12 Feb: student topic presentations
 * Wed, 19 Feb: How to write a MoL thesis (TBC)  
-* Wed, 26 Feb: Scientific Integrity - Martin Stokhof (TBC)  
+* Wed, 26 Feb: Scientific Integrity - Martin Stokhof  
 * Wed, 5 March: no class
 * Wed, 12 March: no class
 * Wed, 19 March: no class
