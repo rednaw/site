@@ -28,7 +28,7 @@ The lectures are schedules on Wednesday, 5-7pm in room TBA
 
 ### 1st Period   		 	 
 * Wed, 4 Sep: no class
-* Wed, 11 Sep: Introduction (Maria Aloni) & info on PhD applications (TBC) 	 
+* Wed, 11 Sep: Introduction (Maria Aloni) & info on PhD applications (Dean McHugh) 	 
 * Wed, 18 Sep: no class  	 
 * Wed, 25 Sep: ILLC research unit presentations: TBA & TBA           
 * Wed, 2 Oct:  ILLC research unit presentations: TBA & TBA 
