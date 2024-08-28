@@ -24,7 +24,7 @@ permalink: ./teaching
 * Structures for Semantics
 * Semantics and Philosophy
 * Colloquium Philosophy
-* [MoL Graduation Trajectory]({{ site.baseurl }}/GraduationTrajectory)
+* [MoL Graduation Trajectory](https://sites.google.com/view/graduationtrajectory23-24/home)
 * Project Logic and Computation 1 and 2 
 * Logic and Computation: [Introduction to logic]({{ site.baseurl }}/introduction-to-logic)
 * [Team Semantics: Linguistic and Philosophical Applications](http://tsinghualogic.net/JRC/team-semantics-linguistic-and-philosophical-applications/) The 4th Tsinghua Logic Summer School, 8-12 July 2024, Beijing, China
