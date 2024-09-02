@@ -24,7 +24,7 @@ NOTE: The trajectory is designed for 2nd year MoL students who intend to graduat
 
 
 ## Schedule 2024/25 (subject to change)
-The lectures are schedules on Wednesday, 5-7pm in room TBA
+The lectures are schedules on Wednesday, 5-7pm in room SP C1.12
 
 ### 1st Period   		 	 
 * Wed, 4 Sep: no class
@@ -39,7 +39,7 @@ The lectures are schedules on Wednesday, 5-7pm in room TBA
 ### 2nd Period
 * Wed, 30 Oct: Plenary MoL thesis presentations (students graduating in Semester 1)
 * Wed, 6 Nov:  Plenary MoL thesis presentations (students graduating in Semester 1) 
-* Wed, 13 Nov:  no class 
+* Wed, 13 Nov:  How to write a grant proposal - Arianna Betti   
 * Wed, 20 Nov:  no class 
 * Wed, 27 Nov:  no class
 * Wed, 4 Dec:   MoL  course presentations for second semester  (TBC) 
@@ -47,7 +47,7 @@ The lectures are schedules on Wednesday, 5-7pm in room TBA
 * Wed, 19 Dec: no class (exam week)
 
 ### 3rd Period
-* Wed, 8 Jan:  student topic presentations
+* Wed, 8 Jan:  no class
 * Wed, 15 Jan: student topic presentations   
 * Wed, 22 Jan: student topic presentations 
 * Wed, 29 Jan: student topic presentations 
@@ -60,7 +60,7 @@ The lectures are schedules on Wednesday, 5-7pm in room TBA
 * Wed, 5 March: no class
 * Wed, 12 March: no class
 * Wed, 19 March: no class
-* Wed, 26 March: How to write a grant proposal - Arianna Betti (TBC)
+* Wed, 26 March: no class 
 
 ### 5th Period
 * Wed, 2 April: Plenary MoL thesis presentations: Logic and Mathematics 
