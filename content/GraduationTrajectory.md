@@ -17,10 +17,11 @@ permalink: ./GraduationTrajectory
 
 ## Course description
 The goal of the MoL graduation trajectory is to provide 2nd year MoL students information and extra support in their final year. It includes a number of **information meetings** (on MoL graduation procedure, PhD applications, life after ILLC), some **trainings** (how to write a cv/research proposal, how to write a MoL thesis), and **ILLC research units presentations**, 3 sessions where the ILLC research units present themselves to the graduating students. The aim of these sessions is to give students an illustration of the topics ILLC researchers are currently working on and which could lead to open questions to be addressed in a MSc thesis. The trajectory further includes two kinds of **student presentations**: 
+
 * MoL thesis presentations (mandatory for graduating students, where students present their ongoing thesis project to the ILLC community) 
 * January presentations (more informal where students present their thesis topic to each other)
 
-NOTE: The trajectory is designed for 2nd year MoL students who intend to graduate in the second semester of the current academic year. But also for students starting their thesis writing semester in Septmber, who intend to graduate in the first semester. Students from other cohorts or Logic Year students are also welcome to attend the sessions (in particular the research units presentations). Also 2nd year students who intend to take an extra semester can follow the trajectory this year [advisable for those components that will come too late for them next year such as the research seminars, the January presentations, how to write a MoL thesis] but will have to do their MoL thesis presentation in the next Fall semester.
+NOTE: The trajectory is designed for 2nd year MoL students who intend to graduate in the second semester. But also for students starting their thesis writing semester in September, who intend to graduate in the first semester. Students from other cohorts or Logic Year students are also welcome to attend the sessions (in particular the research units presentations). Also 2nd year students who intend to take an extra semester can follow the trajectory this year [advisable for those components that will come too late for them next year such as the research seminars, the January presentations, how to write a MoL thesis] but will have to do their MoL thesis presentation in the next fall.
 
 
 ## Schedule 2024/25 (subject to change)
