@@ -31,7 +31,7 @@ The lectures are schedules on Wednesday, 5-7pm in room SP C1.12
 * Wed, 4 Sep: no class
 * Wed, 11 Sep: Introduction (Maria Aloni) & info on PhD applications (Dean McHugh) 	 
 * Wed, 18 Sep: no class  	 
-* Wed, 25 Sep: ILLC research unit presentations: TBA & TBA           
+* Wed, 25 Sep: no class            
 * Wed, 2 Oct:  ILLC research unit presentations: [MCL](https://www.illc.uva.nl/Research/Organisation/Research-Units/MCL) & [NLP&DH](https://www.illc.uva.nl/Research/Organisation/Research-Units/NLPDH)
 * Wed, 9 Oct:  ILLC research unit presentations:  [FSPL](https://www.illc.uva.nl/Research/Organisation/Research-Units/FSPL/) & [TCS](https://www.illc.uva.nl/Research/Organisation/Research-Units/TCS) 
 * Wed, 16 Oct: no class 
@@ -42,7 +42,7 @@ The lectures are schedules on Wednesday, 5-7pm in room SP C1.12
 * Wed, 6 Nov:  Plenary MoL thesis presentations (students graduating in Semester 1) 
 * Wed, 13 Nov:  How to write a grant proposal - Arianna Betti   
 * Wed, 20 Nov:  no class 
-* Wed, 27 Nov:  no class
+* Wed, 27 Nov:  ILLC research unit presentations: [LMC](https://www.illc.uva.nl/Research/Organisation/Research-Units/LMC)   & [EPS](https://www.illc.uva.nl/Research/Organisation/Research-Units/EPS)
 * Wed, 4 Dec:   MoL  course presentations for second semester  (TBC) 
 * Wed, 11 Dec:  MoL January project presentations (TBC) 
 * Wed, 19 Dec: no class (exam week)
