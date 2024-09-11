@@ -25,7 +25,7 @@ NOTE: The trajectory is designed for 2nd year MoL students who intend to graduat
 
 
 ## Schedule 2024/25 (subject to change)
-The lectures are schedules on Wednesday, 5-7pm in room SP C1.12
+The lectures are schedules on Wednesday, 5-7pm in room SP C1.112
 
 ### 1st Period   		 	 
 * Wed, 4 Sep: no class
