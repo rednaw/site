@@ -16,7 +16,7 @@ permalink: ./teaching
 * Structures for Semantics
 * Semantics and Philosophy
 * Colloquium Philosophy
-* [MoL Graduation Trajectory]({{ site.baseurl }}/GraduationTrajectory)
+* [MoL Graduation Trajectory](https://www.marialoni.org/GraduationTrajectory)
 * Project Logic and Computation 1 and 2 
 * Logic and Computation: [Introduction to logic]({{ site.baseurl }}/introduction-to-logic)
 
