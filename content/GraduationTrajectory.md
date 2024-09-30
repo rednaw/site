@@ -32,8 +32,8 @@ The lectures are schedules on Wednesday, 5-7pm in room SP C1.112
 * Wed, 11 Sep: [Introduction](https://www.marialoni.org/resources/GradTraj24-intro.pdf) (Maria Aloni) & info on PhD applications (Dean McHugh) 	 
 * Wed, 18 Sep: no class  	 
 * Wed, 25 Sep: no class            
-* Wed, 2 Oct:  ILLC research unit presentations: [MCL](https://www.illc.uva.nl/Research/Organisation/Research-Units/MCL) & [NLP&DH](https://www.illc.uva.nl/Research/Organisation/Research-Units/NLPDH)
-* Wed, 9 Oct:  ILLC research unit presentations:  [FSPL](https://www.illc.uva.nl/Research/Organisation/Research-Units/FSPL/) & [TCS](https://www.illc.uva.nl/Research/Organisation/Research-Units/TCS) 
+* Wed, 2 Oct:  ILLC research unit presentations: [MCL](https://www.illc.uva.nl/Research/Organisation/Research-Units/MCL) (Yde Venema (TBC), Benno van den Berg, Alexandru Baltag)& [NLP&DH](https://www.illc.uva.nl/Research/Organisation/Research-Units/NLPDH) (Alberto Testoni)
+* Wed, 9 Oct:  ILLC research unit presentations:  [FSPL](https://www.illc.uva.nl/Research/Organisation/Research-Units/FSPL/) (Luca Incurvati, Beste Kamali and Thomas Schindler) & [TCS](https://www.illc.uva.nl/Research/Organisation/Research-Units/TCS) (Ulle Endriss, Rebecca Reiffenhäuser and Gregor Behnke)
 * Wed, 16 Oct: no class 
 * Wed, 23 Oct: no class (exam week)    	 
 
