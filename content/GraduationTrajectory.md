@@ -33,7 +33,7 @@ The lectures are schedules on Wednesday, 5-7pm in room SP C1.112
 * Wed, 18 Sep: no class  	 
 * Wed, 25 Sep: no class            
 * Wed, 2 Oct:  ILLC research unit presentations: 17.00-17.45 [MCL](https://www.illc.uva.nl/Research/Organisation/Research-Units/MCL) (Yde Venema, Benno van den Berg, Alexandru Baltag) & 18.00-18.45 [NLP&DH](https://www.illc.uva.nl/Research/Organisation/Research-Units/NLPDH) (Alberto Testoni, Frank Wildenburg, Vera Neplenbroek)
-* Wed, 9 Oct:  ILLC research unit presentations: 17.00-17.45 [FSPL](https://www.illc.uva.nl/Research/Organisation/Research-Units/FSPL/) (Luca Incurvati, Sonia Ramotowska, Thomas Schindler) & 18.00-18.45 [TCS](https://www.illc.uva.nl/Research/Organisation/Research-Units/TCS) (Ulle Endriss, Rebecca Reiffenhäuser, Gregor Behnke)
+* Wed, 9 Oct:  ILLC research unit presentations: 17.00-17.45 [FSPL](https://www.illc.uva.nl/Research/Organisation/Research-Units/FSPL/) (Luca Incurvati, Sonia Ramotowska, Jeroen Smid) & 18.00-18.45 [TCS](https://www.illc.uva.nl/Research/Organisation/Research-Units/TCS) (Ulle Endriss, Rebecca Reiffenhäuser, Gregor Behnke)
 * Wed, 16 Oct: no class 
 * Wed, 23 Oct: no class (exam week)    	 
 
