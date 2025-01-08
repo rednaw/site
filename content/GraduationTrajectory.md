@@ -49,8 +49,8 @@ The lectures are schedules on Wednesday, 5-7pm in room SP C1.112
 
 ### 3rd Period
 * Wed, 8 Jan:  no class
-* Wed, 15 Jan: student topic presentations   
-* Wed, 22 Jan: student topic presentations 
+* Wed, 15 Jan: no class   
+* Wed, 22 Jan: no class 
 * Wed, 29 Jan: student topic presentations 
 
 ### 4th Period
